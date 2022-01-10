@@ -1,0 +1,17 @@
+Hallo Gaes Aku Ahmad Chen Wang Xuesi Ganteng 😎
+
+disini aku mau bagi tutorial cara install tools ku 🐧
+
+pertama - tama kalian download dulu termux di playstore 😱
+
+terus jalankan perintah di bawah ini ⬇
+
+apt install upgrade
+apt install update
+apt install bash
+apt install git
+git clone https://github.com/tahaluindo/lulzghost
+cd lulzghost
+bash hek.sh
+
+ada ask? kontak email ku : anonsecteaminc@gmail.com
