@@ -1,0 +1,1326 @@
+['http://www.denpasarkota.go.id/', 'http://www.bekasikab.go.id/', 'http://www.bantaengkab.go.id/', 'http://www.kamparkab.go.id/', 'http://www.jombangkab.go.id/', 'http://www.menpan.go.id/', 'http://www.bphmigas.go.id/', 'http://www.tanahdatar.go.id/', 'http://www.kpi.go.id/', 'http://www.interpol.go.id/', 'http://www.kaltimprov.go.id/', 'http://www.pemkomedan.go.id/', 'http://www.kebumenkab.go.id/', 'http://www.dinkesjatengprov.go.id/', 'http://www.bengkaliskab.go.id/', 'http://tangerangkab.go.id/', 'http://www.pasamankab.go.id/', 'http://www.limapuluhkotakab.go.id/', 'http://www.ciamiskab.go.id/', 'http://www.muarojambi.go.id/', 'http://www.pareparekota.go.id/', 'http://www.bplhdjabar.go.id/', 'http://www.pulangpisaukab.go.id/', 'http://www.ombudsman.go.id/', 'http://www.padang.go.id/', 'http://www.purworejokab.go.id/', 'http://www.dpr.go.id/', 'http://www.tasikmalayakab.go.id/', 'http://www.sumenep.go.id/', 'http://www.bandung.go.id/', 'http://bimakab.go.id/', 'http://www.gorontalokota.go.id/', 'http://www.cimahikota.go.id/', 'http://www.bpk.go.id/', 'http://www.perbendaharaan.go.id/', 'http://www.sulutprov.go.id/', 'http://www.nganjukkab.go.id/', 'http://www.sukabumikota.go.id/', 'http://www.bengkulukota.go.id/', 'http://www.balikpapan.go.id/', 'http://www.baliprov.go.id/', 'http://www.karangasemkab.go.id/', 'http://www.gianyarkab.go.id/', 'http://www.presidenri.go.id/', 'http://www.kemenkumham.go.id/', 'http://www.garutkab.go.id/', 'http://www.jembranakab.go.id/', 'http://www.setkab.go.id/', 'http://www.bandaacehkota.go.id/', 'http://www.cilacapkab.go.id/', 'http://www.pesisirselatankab.go.id/', 'http://sultengprov.go.id/', 'http://www.tangerangkota.go.id/', 'http://www.makassarkota.go.id/', 'http://www.ekon.go.id/', 'http://www.bawaslu.go.id/', 'http://www.mpr.go.id/', 'http://www.bppt.go.id/', 'http://www.kpk.go.id/', 'http://www.bangka.go.id/', 'http://www.bantulkab.go.id/', 'http://www.sumbarprov.go.id/', 'http://www.bulelengkab.go.id/', 'http://lomboktimurkab.go.id/', 'http://www.menegpp.go.id/', 'http://www.banyumaskab.go.id/', 'http://www.kulonprogokab.go.id/', 'http://www.mahkamahkonstitusi.go.id/', 'http://www.beraukab.go.id/', 'http://www.kejaksaan.go.id/', 'http://www.lampungprov.go.id/', 'http://www.indonesia.go.id/', 'http://www.kemsos.go.id/', 'http://www.acehutara.go.id/', 'http://www.sarolangunkab.go.id/', 'http://www.inhilkab.go.id/', 'http://www.lsf.go.id/', 'http://www.bakorkamla.go.id/', 'http://www.papua.go.id/', 'http://kepulauanselayarkab.go.id/', 'http://www.malangkota.go.id/', 'http://www.komisiyudisial.go.id/', 'http://www.kotabogor.go.id/', 'http://www.kkp.go.id/', 'http://www.ketapangkab.go.id/', 'http://www.malinau.go.id/', 'http://www.bnp2tki.go.id/', 'http://www.depkop.go.id/', 'http://www.kalbarprov.go.id/', 'http://www.esdm.go.id/', 'http://www.pjnhk.go.id/', 'http://www.sultraprov.go.id/', 'http://kliping.kemenag.go.id/', 'http://blhd.kalselprov.go.id/', 'http://jatim.kemenkumham.go.id/', 'http://kpk.go.id/streaming/', 'http://kek.ekon.go.id/', 'http://www.indonesia.go.id/en/']
+step: 101 ,results: 98
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:06 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=4e2bb8e1d1c55d6d:FF=0:TM=1397532006:LM=1397532006:S=XffX5JlPoGoTdeLQ; expires=Thu, 14-Apr-2016 03:20:06 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=lpebBK_ydue3ATiRxRW5I1GBr6VeUGGJ9XRihnTmG1Ff1hK3JN2e3WYBMx3RpnF4hMskHSR855X9zYBDB64YfUC37oovX4009ze79NAouD9SYdDjjwbxtVDfvJCwW1in; expires=Wed, 15-Oct-2014 03:20:06 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://sumsel.kemenkumham.go.id/', 'http://www.ropeg.kkp.go.id/', 'http://bkd.kalselprov.go.id/', 'http://bimasbuddha.kemenag.go.id/', 'http://dpkd.sumbarprov.go.id/', 'http://www.p3tkebt.esdm.go.id/', 'http://ditjenpp.kemenkumham.go.id/', 'http://bali.kemenkumham.go.id/', 'http://www.babel.polri.go.id/', 'http://disdik.kaltimprov.go.id/', 'http://peternakan.kaltimprov.go.id/', 'http://www.disdikpora.baliprov.go.id/', 'http://ciptakarya.pu.go.id/', 'http://bawas.mahkamahagung.go.id/', 'http://kpu-bantenprov.go.id/', 'http://www.jogja.polri.go.id/', 'http://setkab.go.id/en/', 'http://kpud-baliprov.go.id/', 'http://krbali.lipi.go.id/', 'http://jdih.surakarta.go.id/', 'http://pn-batam.go.id/', 'http://ntb.polri.go.id/', 'http://bkd.kutaikartanegarakab.go.id/', 'http://www.birohumas.baliprov.go.id/', 'http://dualmode.kemenag.go.id/', 'http://bappeda.kutaitimurkab.go.id/', 'http://klubpompi.pom.go.id/', 'http://tomohonkota.go.id/web/', 'http://www.p2hp.kkp.go.id/', 'http://www.puskeshaji.depkes.go.id/', 'http://pa-tangerangkota.go.id/', 'http://bkd.bantulkab.go.id/', 'http://www.pusluh.kkp.go.id/', 'http://arpusda.jatengprov.go.id/', 'http://ptkdikmen.kemdiknas.go.id/', 'http://pertanian.slemankab.go.id/', 'http://www.stp.kkp.go.id/', 'http://dinkes.sumbarprov.go.id/', 'http://www.kepri.polri.go.id/', 'http://mediacenter.malangkota.go.id/', 'http://pusat.baznas.go.id/', 'http://kecserut.tangerangselatankota.go.id/', 'http://pn-jepara.go.id/', 'http://ditjenphka.dephut.go.id/', 'http://diskumkm.jabarprov.go.id/', 'http://infopublik.kominfo.go.id/', 'http://www.bpjs-kesehatan.go.id/', 'http://bkp.deptan.go.id/', 'http://www.kpu-tangerangkota.go.id/', 'http://www.bgl.esdm.go.id/', 'http://puspiptek.ristek.go.id/', 'http://sumut.kemenkumham.go.id/', 'http://www.kemendag.go.id/en', 'http://disbun.kaltimprov.go.id/', 'http://banten.kemenkumham.go.id/', 'http://barat.jakarta.go.id/', 'http://ews.kemendag.go.id/', 'http://binamarga.pu.go.id/', 'http://bappeda.jatimprov.go.id/', 'http://disparbud.jabarprov.go.id/', 'http://serdos.dikti.go.id/', 'http://pariwisatasolo.surakarta.go.id/', 'http://dukcapil.bangka.go.id/', 'http://buk.depkes.go.id/', 'http://seruyankab.go.id/main/', 'http://otda.kemendagri.go.id/', 'http://bkd.banjarbarukota.go.id/', 'http://itjen.kemenkumham.go.id/', 'http://www.kalsel.polri.go.id/', 'http://www.bkipm.kkp.go.id/', 'http://bkddki.jakarta.go.id/', 'http://jdih.jatimprov.go.id/', 'http://www.kpu-indramayukab.go.id/', 'http://sda.pu.go.id/', 'http://binfar.kemkes.go.id/', 'http://bkpp.tangerangkota.go.id/', 'http://pa-jakartaselatan.go.id/', 'http://www.ebtke.esdm.go.id/', 'http://www.djpp.kemenkumham.go.id/', 'http://www.kaltimprov.go.id/agenda', 'http://regalkes.depkes.go.id/', 'http://rsulin.kalselprov.go.id/', 'http://dispendukcapil.surabaya.go.id/', 'http://pustaka.pu.go.id/', 'http://dishub.pemkomedan.go.id/', 'http://kpud-banyumaskab.go.id/', 'http://ditjennak.deptan.go.id/', 'http://www.tangerangkota.go.id/lakip', 'http://setjen.kemdikbud.go.id/', 'http://maritim.bmkg.go.id/', 'http://www.pu.go.id/m', 'http://www.boyolalikab.go.id/', 'http://www.lampungtimurkab.go.id/', 'http://www.kemenkeu.go.id/', 'http://www.bulungan.go.id/', 'http://inaproc.lkpp.go.id/', 'http://www.menkokesra.go.id/', 'http://www.kuningankab.go.id/']
+step: 201 ,results: 98
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:10 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=746e0f82cb4248b2:FF=0:TM=1397532010:LM=1397532010:S=WTtVCNS7Ico5RvPM; expires=Thu, 14-Apr-2016 03:20:10 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=WYlmJXtHtD2nyV6_8IDWr5R2OE-R-pBxrXJC0YFg15t10MAWsCmUucZygyNkwf2cbrzjcgFrsGGqwT7ac_XQF_axOJiIXCp86CVMIJflKt0Jyo7eDFeqebsZUULk-vs2; expires=Wed, 15-Oct-2014 03:20:10 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://www.tegalkab.go.id/', 'http://www.riau.go.id/', 'http://www.bangkabaratkab.go.id/', 'http://www.anri.go.id/', 'http://www.surabaya.go.id/', 'http://www.jambiprov.go.id/', 'http://gresikkab.go.id/', 'http://www.tabanankab.go.id/', 'http://www.karanganyarkab.go.id/', 'http://www.ojk.go.id/', 'http://www.kemlu.go.id/', 'http://www.kppu.go.id/', 'http://www.kemendagri.go.id/', 'http://www.cirebonkab.go.id/', 'http://www.sanggau.go.id/', 'http://www.bmkg.go.id/', 'http://www.bappenas.go.id/', 'http://www.pajak.go.id/', 'http://www.bpkp.go.id/', 'http://www.kerincikab.go.id/', 'http://www.pontianakkota.go.id/', 'http://bojonegorokab.go.id/', 'http://www.polkam.go.id/', 'http://www.kutaikartanegarakab.go.id/', 'http://www.merauke.go.id/', 'http://www.hulusungaitengahkab.go.id/', 'http://www.menlh.go.id/', 'http://www.sumselprov.go.id/', 'http://www.malukuprov.go.id/', 'http://www.banglikab.go.id/', 'http://www.waykanankab.go.id/', 'http://www.kutaitimurkab.go.id/', 'http://www.tulungagung.go.id/', 'http://purwakartakab.go.id/', 'http://www.ham.go.id/', 'http://www.kemenag.go.id/', 'http://www.kemenegpdt.go.id/', 'http://www.bkkbn.go.id/', 'http://www.kemhan.go.id/', 'http://lapan.go.id/', 'http://mail.kpujakarta.go.id/', 'http://www.basarnas.go.id/', 'http://www.komisiinformasi.go.id/', 'http://www.banyuwangikab.go.id/', 'http://www.beacukai.go.id/', 'http://www.sijunjung.go.id/', 'http://www.bnn.go.id/', 'http://mataramkota.go.id/', 'http://www.bpjsketenagakerjaan.go.id/', 'http://www.pasuruankota.go.id/', 'http://www.polmankab.go.id/', 'http://www.pu.go.id/', 'http://www.blitarkab.go.id/', 'http://notifkos.pom.go.id/', 'http://www.ristek.go.id/', 'http://www.mojokertokota.go.id/', 'http://bpkh5.dephut.go.id/', 'http://tabalongkab.go.id/', 'http://www.dephub.go.id/', 'http://www.sragenkab.go.id/', 'http://www.pacitankab.go.id/', 'http://www.takalarkab.go.id/', 'http://www.ambon.go.id/', 'http://www.ntbprov.go.id/', 'http://batamkota.go.id/', 'http://www.sintang.go.id/', 'http://www.kpu.go.id/', 'http://www.dprdsulsel.go.id/', 'http://payakumbuhkota.go.id/', 'http://lombokbaratkab.go.id/', 'http://www.belitungkab.go.id/', 'http://www.batukota.go.id/', 'http://www.gunungkidulkab.go.id/', 'http://www.malangkab.go.id/', 'http://www.dprdkutaikartanegara.go.id/', 'http://www.karanganyar.go.id/', 'http://www.slemankab.go.id/', 'http://www.kemenperin.go.id/', 'http://acehprov.go.id/', 'http://www.lan.go.id/', 'http://www.dgip.go.id/', 'http://www.bnpb.go.id/', 'http://www.badungkab.go.id/', 'http://www.dikti.go.id/', 'http://www.bumn.go.id/', 'http://www.surakarta.go.id/', 'http://www.samarindakota.go.id/', 'http://www.temanggungkab.go.id/', 'http://www.jabarprov.go.id/', 'http://www.kemdikbud.go.id/', 'http://www.parekraf.go.id/', 'http://demakkab.go.id/', 'http://www.jogjakota.go.id/', 'http://www.bandungkab.go.id/', 'http://www.lumajang.go.id/', 'http://www.babelprov.go.id/', 'http://www.polri.go.id/', 'http://www.minahasa.go.id/', 'http://www.sulsel.go.id/', 'http://www.penajamkab.go.id/']
+step: 301 ,results: 100
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:15 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=61f68f9b93cf742f:FF=0:TM=1397532015:LM=1397532015:S=8E5G3_Mk2I64eEhL; expires=Thu, 14-Apr-2016 03:20:15 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=HD6oMs62_klfYRccBXejXTsIun7yzw7OirM7Y5YL3aWP6D3pyvwaOlqNOTtAPF8nWT8qq3nneLQgLnHdMr5qsu9EwZLyAZ54SKXYqkyVtbMll8AEa0NXR16CztiK8gnX; expires=Wed, 15-Oct-2014 03:20:15 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://www.kopertis7.go.id/', 'http://www.dnpi.go.id/', 'http://www.dpd.go.id/', 'http://www.kotaprabumulih.go.id/', 'http://www.sumbawakab.go.id/', 'http://www.imigrasi.go.id/', 'http://pidiekab.go.id/', 'http://www.patikab.go.id/', 'http://www.den.go.id/', 'http://www.nttprov.go.id/', 'http://www.wapresri.go.id/', 'http://pesawarankab.go.id/', 'http://www.banjarbarukota.go.id/', 'http://www.perpusjatim.go.id/', 'http://www.bkpm.go.id/', 'http://www.bakosurtanal.go.id/', 'http://www.ditjenpas.go.id/', 'http://www.bnpt.go.id/', 'http://www.bpbatam.go.id/', 'http://mekanisasi.litbang.deptan.go.id/', 'http://setkab.go.id/berita.html', 'http://infopublik.kominfo.go.id/nusantara/', 'http://balitkabi.litbang.deptan.go.id/', 'http://www.kejaksaan.go.id/berita.php', 'http://www.setkab.go.id/pengumuman.html', 'http://balittanah.litbang.deptan.go.id/', 'http://infopublik.kominfo.go.id/bencana/', 'http://disnakertrans.jabarprov.go.id/balai', 'http://www.skkmigas.go.id/info-lelang', 'http://www.kaltimprov.go.id/arsip-berita', 'http://www.kemenkumham.go.id/berita/headline', 'http://peternakan.litbang.deptan.go.id/', 'http://www.bppk.depkeu.go.id/webbc/', 'http://www.jatimprov.go.id/', 'http://www.bppk.depkeu.go.id/webpajak/', 'http://yogya.litbang.deptan.go.id/', 'http://www.pipp.djpt.kkp.go.id/', 'http://www.mpr.go.id/foto/sosialisasi', 'http://lampung.litbang.deptan.go.id/', 'http://infopublik.kominfo.go.id/kesra/', 'http://hortikultura.litbang.deptan.go.id/', 'http://www.dpr.go.id/id/agenda/', 'http://www.bppk.depkeu.go.id/webpegawai/', 'http://www.menpan.go.id/berita-terkini', 'http://balitnak.litbang.deptan.go.id/', 'http://m-edukasi.kemdikbud.go.id/', 'http://ciptakarya.pu.go.id/sanimas/', 'http://infopublik.kominfo.go.id/bisnis/', 'http://www.esdm.go.id/berita.html', 'http://pangan.litbang.deptan.go.id/', 'http://kemenpora.go.id/index/berita', 'http://www.kemendag.go.id/id/survey', 'http://www.tangerangkota.go.id/news/latestnews', 'http://www.tangerangkota.go.id/news/latestrss', 'http://www.tangerangkota.go.id/pemilu-2014', 'http://www.jakarta.go.id/', 'http://www.tangerangkota.go.id/lkpj-amj', 'http://www.sultraprov.go.id/download.html', 'http://kalsel.bps.go.id/perpus/', 'http://www.sultraprov.go.id/gallery.html', 'http://www.sultraprov.go.id/contact.html', 'http://www.sultraprov.go.id/3_gagasan_dan_pikiran_gubernur_hnur_alam.html', 'http://www.sultraprov.go.id/8_arahan_dan_penegasan.html', 'http://intranet.pnri.go.id/registration/', 'http://www.sultraprov.go.id/5_sultra_dalam_gambar.html', 'http://kiprah.pu.go.id:8080/', 'http://www.deplu.go.id/', 'http://www.litbang.deptan.go.id/', 'http://putusan.mahkamahagung.go.id/', 'http://kalbar.kemenag.go.id/', 'http://www.bumn.go.id/ptpn12/', 'http://jatim.bps.go.id/', 'http://lpse.ntbprov.go.id/', 'http://bali.kemenag.go.id/', 'http://www.dinkes.jogjaprov.go.id/', 'http://www.jogjakota.go.id/about', 'http://papua.bps.go.id/', 'http://lpse.inhukab.go.id/', 'http://sumsel.bps.go.id/', 'http://bengkulu.kemenag.go.id/', 'http://www.jogjakota.go.id/forum', 'http://humas.polri.go.id/', 'http://ijazahln.dikti.go.id/rekap_per_univ.php', 'http://lpse.kubarkab.go.id/', 'http://bpsdm.kemenkumham.go.id/', 'http://www.jogjakota.go.id/contact', 'http://www.bumn.go.id/jasaraharja/', 'http://www.menkokesra.go.id/newkesra2/', 'http://eproc.esdm.go.id/', 'http://www.surabaya.go.id/keluhan/', 'http://diskominfo.kaltimprov.go.id/', 'http://lpse.kalteng.go.id/', 'http://www.kemendag.go.id/id/newsroom/regulations', 'http://pesduk.cimahikota.go.id/', 'http://dprd.jabarprov.go.id/', 'http://jabar.bkkbn.go.id/', 'http://suaraedukasi.kemdikbud.go.id/']
+step: 401 ,results: 97
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:20 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=2e9bf54b9dfc26eb:FF=0:TM=1397532020:LM=1397532020:S=DXiCSBp9FmDyBIPi; expires=Thu, 14-Apr-2016 03:20:20 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=JlBWUMWTEPv_r8aBJA9Hi40Rq6ebXvOEo8WjWbT6f7Q1TK9_paGLNlKcoOp--1Xp4U5lBCfBg267vBlQpz4TYu494tJ0bN2UmWVeyp_Gh0KgzkTwXPq8YkpT3j2jr231; expires=Wed, 15-Oct-2014 03:20:20 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://sumbar.kemenag.go.id/', 'http://dinaspasar.slemankab.go.id/', 'http://ntt.kemenag.go.id/', 'http://pusdiklat.bpk.go.id/', 'http://www.bekasikota.go.id/pajangan/click/12', 'http://lpse.jatengprov.go.id/', 'http://dki.kemenag.go.id/', 'http://sulut.kemenag.go.id/', 'http://boltim.kemenag.go.id/', 'http://www.span.depkeu.go.id/', 'http://diktis.kemenag.go.id/', 'http://gorontalo.kemenag.go.id/', 'http://www.djpb.kkp.go.id/', 'http://lpse.kutaitimurkab.go.id/', 'http://lpse.tanjabtimkab.go.id/', 'http://lpse.badungkab.go.id/', 'http://dprd-kaltimprov.go.id/', 'http://www.kemlu.go.id/newdelhi', 'http://lpse.kemenkumham.go.id/', 'http://jateng.kemenag.go.id/', 'http://www.dpr.go.id/id/Berita/Komisi', 'http://kaltim.kemenag.go.id/', 'http://lpse.sultraprov.go.id/', 'http://inaproc.lkpp.go.id/v3/daftar_lpse', 'http://www.pu.go.id/pengumuman', 'http://lpse.gianyarkab.go.id/', 'http://www.kemlu.go.id/beijing', 'http://www.deplu.go.id/berlin', 'http://www.pusbindiklatren.bappenas.go.id/', 'http://www.pajak.go.id/visi_dan_misi', 'http://keuda.kemendagri.go.id/', 'http://kerinci.kemenag.go.id/', 'http://puspita.depkeu.go.id/', 'http://ntb.kemenag.go.id/', 'http://pn-jakartapusat.go.id/', 'http://lpse.mubakab.go.id/', 'http://lpse.tangerangkota.go.id/', 'http://sulbar.kemenag.go.id/', 'http://pusdiklat.bps.go.id/', 'http://lpse.lamongankab.go.id/', 'http://www.kemlu.go.id/toronto', 'http://www.kpud-mandailingnatalkab.go.id/', 'http://www.menkokesra.go.id/allnews', 'http://www.bumn.go.id/semenindonesia/', 'http://www.dpr.go.id/id/baleg/prolegnas', 'http://www.setjen.kemenkeu.go.id/', 'http://news.kutaikartanegarakab.go.id/', 'http://timlpse.lomboktengahkab.go.id/', 'http://sultra.kemenag.go.id/', 'http://lpse.palembang.go.id/', 'http://v2.tangerangselatankota.go.id/', 'http://lpse.basarnas.go.id/', 'http://lpse.solokkab.go.id/', 'http://perpustakaan.menlh.go.id/', 'http://www.postel.go.id/sertifikasi/', 'http://litbang.kemdikbud.go.id/', 'http://lpse.kolutkab.go.id/', 'http://haji.kemenag.go.id/', 'http://diskominfo.jabarprov.go.id/', 'http://lpse.sumbarprov.go.id/', 'http://www.jogjakota.go.id/galleries', 'http://www.migas.esdm.go.id/', 'http://aceh.kemenag.go.id/', 'http://sulsel.kemenag.go.id/', 'http://www.komisiyudisial.go.id/semua-download.html', 'http://sulteng.kemenag.go.id/', 'http://www.bumn.go.id/merpati/', 'http://www.bumn.go.id/pegadaian/', 'http://lpse.maroskab.go.id/', 'http://www.bppk.depkeu.go.id/bdk/denpasar/', 'http://www.lemsaneg.go.id/%3Fpage_id%3D3194', 'http://www.bumn.go.id/pelindo1/', 'http://lpse.kamparkab.go.id/', 'http://eproc.kotabogor.go.id/', 'http://www.anggaran.depkeu.go.id/', 'http://diperta.jabarprov.go.id/', 'http://www.bumn.go.id/pertamina/', 'http://www.jogjakota.go.id/journalism', 'http://lpse.lipi.go.id/', 'http://cybex.deptan.go.id/', 'http://lpse.tanahdatar.go.id/', 'http://www.dpr.go.id/id/Pimpinan/kontak', 'http://www.bumn.go.id/keretaapi/', 'http://lpse.sumutprov.go.id/', 'http://kominfo.jatimprov.go.id/', 'http://www.ojk.go.id/en/', 'http://lpse.dephub.go.id/', 'http://linjamsos.kemsos.go.id/index.php', 'http://lpse.batukota.go.id/', 'http://www.minerba.esdm.go.id/', 'http://223-61.cpt.kemdiknas.go.id/', 'http://lpse.paserkab.go.id/', 'http://lpse.jatimprov.go.id/', 'http://beasiswa.kutaikartanegarakab.go.id/', 'http://www.bmkg.go.id/bmkg_pusat/depan.bmkg', 'http://www.setkab.go.id/apresiasi-ri.html', 'http://www.kemenpera.go.id/', 'http://ropeg.kemenag.go.id/', 'http://www.setkab.go.id/penerimaan-cpns.html', 'http://lpse.tojounaunakab.go.id/']
+step: 501 ,results: 100
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:25 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=7a66e9d9d47a1a56:FF=0:TM=1397532025:LM=1397532025:S=bsXf2TRUshZMEaJH; expires=Thu, 14-Apr-2016 03:20:25 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=PuNmAeBo9AURj9MY8-1rMixOVaL5OOV9ipgyQU2LbjAUsARrD2mEdWmLhA6YStzWTue-ApZI6hKMBiBkGPrMkcxwewuDVHAUnh2dlxlSdzLaonSAkqUiLRwuYtcu28Ko; expires=Wed, 15-Oct-2014 03:20:25 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://www.bpsdmkp.kkp.go.id/', 'http://wisata.nttprov.go.id/', 'http://lpse.kkp.go.id/', 'http://www.bppk.depkeu.go.id/bdk/yogyakarta/', 'http://lpse.purworejokab.go.id/', 'http://www.jakarta.go.id/web/', 'http://lpse.lkpp.go.id/', 'http://www.kemenkeu.go.id/en', 'http://www.jakarta-tourism.go.id/', 'http://lpse.bmkg.go.id/', 'http://lpse.bkkbn.go.id/', 'http://lpse.cilegon.go.id/', 'http://lpse.baliprov.go.id/', 'http://www.bumn.go.id/ptpn13/', 'http://jambi.kemenag.go.id/', 'http://kalbar.kpu.go.id/', 'http://bappeda.rejanglebongkab.go.id/', 'http://lpse.pom.go.id/', 'http://lpse.kuansing.go.id/', 'http://www.bumn.go.id/jasamarga/', 'http://lpse.slemankab.go.id/', 'http://lpse.grobogan.go.id/', 'http://lpse.lebakkab.go.id/', 'http://lpse.batangharikab.go.id/', 'http://lpse.muaraenimkab.go.id/', 'http://lpse.tebokab.go.id/', 'http://lpse.tangerangkab.go.id/', 'http://suara.merauke.go.id/', 'http://lpse.depok.go.id/', 'http://lpse.sukoharjokab.go.id/', 'http://serdos.dikti.go.id/%3Ftf%3DtdWhYugyFYicv0dJPNNNhsehgjYmhKs5nEf8EaznTGM%3D', 'http://serdos.dikti.go.id/%3Ftf%3DJxnF1g5S6H4Fv7mqWKJ749ZUcvsbQn1hRikyV9puPEw%3D', 'http://serdos.dikti.go.id/%3Ftf%3DZ2TAHdAyAK6ttozD06SRrDRyluMtDbYOYxNGO2Ek0yU%3D', 'http://serdos.dikti.go.id/%3Ftf%3DTMKKj2hgQX4kgHXTCiTFvU3EPTs9A8qIUdb1656Opms%3D', 'http://serdos.dikti.go.id/%3Ftf%3DnXI0I3xYSoJllDkTlpRkRRG0pjPpEntoUBs0vyeaHWc%3D', 'http://serdos.dikti.go.id/%3Ftf%3DLySt7AfjSiGFu2kCkMCmZPYC02dAnilfELmZKKEhzPY%3D', 'http://serdos.dikti.go.id/%3Ftf%3D5xC2rn3wxw8pCNU61MYfv2HNHNWc71I20wA8DK1QO8o%3D', 'http://serdos.dikti.go.id/%3Ftf%3DMXzFpFkhYpFr8QXDZjRMGyO3WdmCwgIch6Jnwb5VOAw%3D', 'http://serdos.dikti.go.id/%3Ftf%3DFNbbiGZwUyIzY1Z1QaTi0i3s2rAz43Xat0JeeIClr84%3D', 'http://serdos.dikti.go.id/%3Ftf%3DSGyAIJa3Gxd0ez5KCxoqgeeYmlzmkArO71eljt0H8QM%3D', 'http://serdos.dikti.go.id/%3Ftf%3Db6J5RIYQYHGRAiwD2LJnIEWtTAkFH2HqpIJNNItUwxo%3D', 'http://serdos.dikti.go.id/%3Ftf%3DMPXRvhXh8hfDqewy7e5mCaeUqsHu0nNxRCtI73P2Kw0%3D', 'http://serdos.dikti.go.id/%3Ftf%3DHEDnxSp1cg3HJfq7x30suMaUb7yiPc9Cie7SBewDHLA%3D', 'http://serdos.dikti.go.id/%3Ftf%3DQ8E11uABSaGnEKVN2Dm3WrZ4WnPUzwzASjNeUfaE9SI%3D', 'http://serdos.dikti.go.id/%3Ftf%3D5C01hhUMRGQwcZVFh1qxulzF3VeV5cuTHGkRwHiu1sE%3D', 'http://serdos.dikti.go.id/%3Ftf%3D2GZy3rwmUF3mwHommIau85FKGMOzXPIxAfJlY6QIkcs%3D', 'http://serdos.dikti.go.id/%3Ftf%3DRrlPBJioXidiRtAf7rAB3DSCaxofHydXYsNRIWpiGSE%3D', 'http://serdos.dikti.go.id/%3Ftf%3DxuPqEHuIgmJIOKMs3Fn1Y2FCwpVpvGB8xv41HM5e7o4%3D', 'http://serdos.dikti.go.id/%3Ftf%3DyWmfTYy8fnrZYubXDOGwDLozOfBM8ptXwxHDz7HtGuk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DyNuBR4UgcgxyuWZitf9uWZme17uTorYnURlvHUq4JL4%3D', 'http://serdos.dikti.go.id/%3Ftf%3DIs7rYxATF3DmL4do5yoOoSXI9Eu6UnzBYS4D1VqvqME%3D', 'http://serdos.dikti.go.id/%3Ftf%3DthqNkSQ98UCTCOiKPAR1NZ4fomlhlzAramG9YoobFSA%3D', 'http://serdos.dikti.go.id/%3Ftf%3DZLmjBfgJP6F4BLD1noFq8NBPULKShE7ks2MVlSChEIk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DGAan6nxplwJurCGyHkWvBh3mRDHYKls4N2Rstb6bLAg%3D', 'http://serdos.dikti.go.id/%3Ftf%3DX5sTrgIPJC7MciECJdn1RWDHC9k8UIibfKiMV3qgX2A%3D', 'http://serdos.dikti.go.id/%3Ftf%3D0ZqGPLxxxTeOUswn8XdtQAIETWDGhBo216Edi0qxLvs%3D', 'http://serdos.dikti.go.id/%3Ftf%3D9tOrssNS0THRH5jrfI88a8u0VNGfhnkXr99L1SgbuoM%3D', 'http://serdos.dikti.go.id/%3Ftf%3DU2PpACUJv3173HyAZqIfjtpybPjBhz6tOauseMcvhGM%3D', 'http://serdos.dikti.go.id/%3Ftf%3Dt7pGURWuFyz6Z0dKVCr2e7dgXn5aHK3IricRtUrTMmc%3D', 'http://serdos.dikti.go.id/%3Ftf%3D52lClv7fbtAFeC6TXtaYPUky6Di2r531bUDaj0AQxLw%3D', 'http://serdos.dikti.go.id/%3Ftf%3DBDzOUR6gBtRRrivcwOq2lyULDZ3V5or3U0N2PJN96MM%3D', 'http://serdos.dikti.go.id/%3Ftf%3DyudzLFhQoR0WZ1453UshW9CM3JhbljiUYItU508DHQc%3D', 'http://serdos.dikti.go.id/%3Ftf%3DRBnsh91ESo5xeoQAQ2Secoeb6sbndJWLTWh7BLKxb4I%3D', 'http://serdos.dikti.go.id/%3Ftf%3DNGRCQOFvMdDa64gsetRolyZtW8GxK4gHbq30MN61luk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DxyMzFQvf2RhdF78VQZyGdFO1FkSweS7wcgoYl29trnY%3D', 'http://serdos.dikti.go.id/%3Ftf%3DkuORcBTsDmJ4qQtyanLNq7PVLwT9Tw9DrMIrRMDBT3I%3D', 'http://serdos.dikti.go.id/%3Ftf%3DOswktz3C7Q45mx7yL8DP1ITmzZpv1ZfgGYWMnFDLpw4%3D', 'http://serdos.dikti.go.id/%3Ftf%3DL3iCm91mCgEHfjT8XjHVgtjENrX3ftIbtucZ8ExzelQ%3D', 'http://serdos.dikti.go.id/%3Ftf%3DOWmqV1mKJwMbvQmEmpBJXEgKvKoqQAIB5pzfU9lx5vQ%3D', 'http://serdos.dikti.go.id/%3Ftf%3DJ7FcuvcWNZgExMRX5X01GjAPOTLtbXZsjGHyxdFWNuI%3D', 'http://serdos.dikti.go.id/%3Ftf%3DwFgl28Ge7uwCXywjyuqL96Sn4ohQ2ur4whqLDJGH4HM%3D', 'http://serdos.dikti.go.id/%3Ftf%3DFpXow4t23AFQ0pPBh7QlE9Lyq6vM9WuCsNYzoojHuk0%3D', 'http://serdos.dikti.go.id/%3Ftf%3D0gpJwfzT2S16618788infCccFmjIVbWJ1EvPHp1lMfs%3D', 'http://serdos.dikti.go.id/%3Ftf%3DQpkOcBwHCzf9SRSAmYM7uxXrzMDUvRdJvlGsVQTnsYA%3D', 'http://serdos.dikti.go.id/%3Ftf%3D0hR11VVCdX8nXsMXtQSvmCeLtDuVYKZmeqVX9s2lJKw%3D', 'http://www.menkokesra.go.id/calendar/2014-04-06', 'http://datin.menlh.go.id/Security/login', 'http://www.menkokesra.go.id/calendar/2014-04-01', 'http://www.menkokesra.go.id/calendar/2014-04-05', 'http://www.menkokesra.go.id/calendar/2014-04-03', 'http://www.batan.go.id/buku-reaktor.php', 'http://serdos.dikti.go.id/%3Ftf%3Dpi8iyrakv22zyq1aFm1NIVyKaWx1ij0PbZlXTtVBgv0%3D', 'http://serdos.dikti.go.id/%3Ftf%3Dua3leUWzwPbrEZTZOeJLOl6x3K3KwaCdLiD1v6r1SMI%3D', 'http://serdos.dikti.go.id/%3Ftf%3D0wAyRirQX01JR2DTweG%40dLfyXbOqzRRyR9RWIiIiyvw%3D', 'http://serdos.dikti.go.id/%3Ftf%3DFbzNkgBqfGfLDhq5BTUe8TyJpHEAnjZ1LbXMJ/yRARM%3D', 'http://serdos.dikti.go.id/%3Ftf%3Do8FRx1SaG4WnpCM26rDyvzHjI7shmIXa3KKANRWa/2c%3D', 'http://serdos.dikti.go.id/%3Ftf%3Ds%40C46AiArVKgTuJ4bDx9vzLIPGYbAKe7AGfY26CTUpI%3D', 'http://serdos.dikti.go.id/%3Ftf%3DaBhzWg/lQ8U5RFfkiVX04dWins7y4IP3dmh8esMNllk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DB3PivEeqSgNOKXKtaVoQbke4Tlo2p/hyyQ2HZcOhgLk%3D', 'http://serdos.dikti.go.id/%3Ftf%3D7Ex7HQmWxQJNge5boCddiCsMGmgW8lfhCOp3I/pv4no%3D', 'http://serdos.dikti.go.id/%3Ftf%3DYoBq7wHrn9OCUFMUqp7rfKDbPCidOaFq/cCevC1QYG0%3D', 'http://serdos.dikti.go.id/%3Ftf%3Di25UhYEzjo%40HCxx4n2CkFv91w3BXhj4fY47ecjQsZJ8%3D', 'http://serdos.dikti.go.id/%3Ftf%3D9ZFNaDbtzVgh1eEQdg8gTD1H4UuODtk%40RcihEkVfIco%3D', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Indonesia%2520Heritage%2520Digital%2520library.pdf', 'http://serdos.dikti.go.id/%3Ftf%3DQQ0YjZm3JYr3UAonnUtcWIPVuop3QBZQ%40UY82NKam5k%3D', 'http://serdos.dikti.go.id/%3Ftf%3DYuaGAHhkDDOidQzrYpHD1AXEUD3xrw1xiaW%40rxAij24%3D', 'http://serdos.dikti.go.id/%3Ftf%3DAuxJEzAeS7Pfq1MusMC4ZCEn4QpQXfOHm3pYLUTm%40iw%3D', 'http://serdos.dikti.go.id/%3Ftf%3DbCUMYz/hgtuhDVDC6SUZFIqOldMernQFw9w9FytvSao%3D', 'http://serdos.dikti.go.id/%3Ftf%3DHGyuezQ/HyVN4ZI6nB782LsYgBFf90hGbjExG5VVh2E%3D']
+step: 601 ,results: 99
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:28 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=bf3f5a7ea5721fca:FF=0:TM=1397532028:LM=1397532028:S=kpTh8RdAeTC3udbH; expires=Thu, 14-Apr-2016 03:20:28 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=ui1JWLwixeA8e9AH34h4fHbwxbgOcZ_ghcdNne1MOnxdjg2_3UMiTOqeos74-BFmLtt_0GS2CttugiFrJDTmvEZPDCfOow9deB3y4x8JfRvERcQrcNiKnIeJX9fWabns; expires=Wed, 15-Oct-2014 03:20:28 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://serdos.dikti.go.id/%3Ftf%3DuWULYKc/B7QyldLTdZel4EwcMrBRC3l5zAlOlO10YwY%3D', 'http://serdos.dikti.go.id/%3Ftf%3DaSS9kAt0BBk9OWtJjG/eiXCePdNWp5S8tZ7NCXroZSw%3D', 'http://serdos.dikti.go.id/%3Ftf%3Dk/NvAQeBF269SrbywPbZbCMYukbUqWdf0z2eYxHzwpc%3D', 'http://serdos.dikti.go.id/%3Ftf%3DWdoGkSA9uYZeye4jdCB/w0agJXWbKP3SVYXP6S0ALnQ%3D', 'http://www4.bkpm.go.id/iipc/news/singapore', 'http://www4.bkpm.go.id/iipc/news/abu_dhabi', 'http://serdos.dikti.go.id/%3Ftf%3DZ3gVsPYJKN0XmM3X7SutA14ju/ky0GININ7QmJ80knA%3D', 'http://serdos.dikti.go.id/%3Ftf%3DRXL7gGU/WtwyAufCzSgyWpq768Q6SPezn7AxgPw4btY%3D', 'http://serdos.dikti.go.id/%3Ftf%3DXy5D376CoGjTq0HcDrOKAonI/v8Xay6nTxgSWgh2c0k%3D', 'http://serdos.dikti.go.id/%3Ftf%3DbitAlT2nxO0FhOX01J0nJNNBOXP%40ME9a36AYl96eGrk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DKTPS4Tn%40TBqmeJdZwAyIEeDcjyAJLlQpKFNSGb1QkEk%3D', 'http://lpse.lampungtengahkab.go.id/eproc/login/penyedia', 'http://serdos.dikti.go.id/%3Ftf%3Dljx1vycuoRl/drOVzKiF4VrSDea24Fbwczj2zCpULUk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DI3wkgxyN4pBP8CTd2NEFmgvvFZBcdd523HW%40vcgVIs4%3D', 'http://serdos.dikti.go.id/%3Ftf%3DTBuh7IDYMVbegsq4x6JGXmFWKYhQi69jNIpEe%40S6VsA%3D', 'http://e-resources.pnri.go.id/pdf/1-Manual%2520user%2520e-resoureces.pdf', 'http://serdos.dikti.go.id/%3Ftf%3DPbmmLsSSHkrGStkTsVaaVGB0dXhwZsxA/vwOqtGAd6k%3D', 'http://serdos.dikti.go.id/%3Ftf%3DBhnmCeKC0EFQhUkPsr6KgFu1ytl2iHFq6WCanRp1h%40Q%3D', 'http://serdos.dikti.go.id/%3Ftf%3D1e0BpwCJ2mkS378Hszwj3/jNLi253RL67MZcCMuHUZg%3D', 'http://sirup.lkpp.go.id/sirup/rekapKldi/L40', 'http://serdos.dikti.go.id/%3Ftf%3DSJxuSTglIoJ0SXafTPaDXlyz%402Dem9PGd7VX6tmrtlE%3D', 'http://serdos.dikti.go.id/%3Ftf%3DH2DVEPBXb3pLDS2C8Ai%400Ijgq7hTJAow3QjWtUzPffI%3D', 'http://serdos.dikti.go.id/%3Ftf%3DhVvyZ6vgcIqdTxPgW6y%408ClCU5D6wZyUcSQ3pMxoQFE%3D', 'http://serdos.dikti.go.id/%3Ftf%3DAYg3JVjwT8yyDrmu1a5xokiFsVs%40cSeCiDjN0GWMQfM%3D', 'http://serdos.dikti.go.id/%3Ftf%3D8LjjHyffkhRg8M87Ns4mZ50%40wIMU7ozmhQHixok5UW8%3D', 'http://serdos.dikti.go.id/%3Ftf%3Db1j79HoJW3s3SKIEP6eH9zY5VHGBr%40OAFDyy3t7qbYk%3D', 'http://serdos.dikti.go.id/%3Ftf%3DJlcIe261mKyXogjF6zuK/gLYqchoSGdVlxXj1h6MFCY%3D', 'http://serdos.dikti.go.id/%3Ftf%3DPxXdSFKB7PdBlTx0X/rY3mZ4Rab4QLTHNxF63omqvdo%3D', 'http://serdos.dikti.go.id/%3Ftf%3DjIfne7vFy9%40LIqzQLmizoYrLIkCuwixp3RsukBtOOB0%3D', 'http://serdos.dikti.go.id/%3Ftf%3DF8gBNqCrJmOpF9qaYMVeFT2LA9t7r%40bcREXjm7EDPLg%3D', 'http://serdos.dikti.go.id/%3Ftf%3DGSS6AaDfSJafmZnwZ8YR7H7WAJ0XlGJshp%40vEzT9FWg%3D', 'http://serdos.dikti.go.id/%3Ftf%3D4NEgQUCBEzIcNFfamgiIn%40mA6DKirZnGPBTXUDDcM44%3D', 'http://serdos.dikti.go.id/%3Ftf%3Dc4EYdxJ4xony8Otzhiqy40Nk8ckIt9wPkXq%40yahufp0%3D', 'http://serdos.dikti.go.id/%3Ftf%3DhM0AZ41LESbB07LdEFREfw8cSGBKFRdBcGinfARmW%40w%3D', 'http://serdos.dikti.go.id/%3Ftf%3DSvpEKepn41FzCqHi22IiWVxNHjiWHAoRXui2ff9n4/M%3D', 'http://serdos.dikti.go.id/%3Ftf%3DUhEFcaADnB8qj1UZxW67Ws3VSEimHjieoZVjB2U/P6I%3D', 'http://serdos.dikti.go.id/%3Ftf%3DQCLCigDHN1NSiGgJiF5clqTdv88%40AmCj1Pchdd8ulJw%3D', 'http://serdos.dikti.go.id/%3Ftf%3Dv0ex5AWu86auFfXkUn8LspS47gNX%40tYjmADH2Qd1rzE%3D', 'http://support.bpn.go.id/forum/index.php', 'http://serdos.dikti.go.id/%3Ftf%3DDf6F6s8LmNZjnRuwD93kVK9UQswaDngGP0Wlkoe/cSY%3D', 'http://serdos.dikti.go.id/%3Ftf%3Dt3GmwG/WDdOH8BBel9Vnn8xrVH9RwOayntVgvLW8HLQ%3D', 'http://serdos.dikti.go.id/%3Ftf%3DYHlVqSIKGo%40jdcy8Ces4R3BIQQ1xdvSD7lvQSVAlRMA%3D', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Alexander%2520Street%2520Press.pdf', 'http://serdos.dikti.go.id/%3Ftf%3DC2ow/6BlVlDIgnQBrbgyO1TuZMzVzn5KfvjewkgXHD4%3D', 'http://serdos.dikti.go.id/%3Ftf%3DhVmzhHf3NhI44wQiGZTjPyOjckcZz/o9fIPdXGR65uE%3D', 'http://sirup.lkpp.go.id/sirup/rekapKldi/L10', 'http://sirup.lkpp.go.id/sirup/rekapKldi/D434', 'http://sirup.lkpp.go.id/sirup/rekapKldi/L9', 'http://www.lpse.tanjabbarkab.go.id/eproc/publicberitadetail/668290', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/21718', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Brill%2520Online.pdf%3Fid%3D00023', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Sage%2520Knowledge.pdf%3Fid%3D00018', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/403880', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520IG%2520Group.pdf%3Fid%3D00010', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/61349', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Westlaw.pdf%3Fid%3D00008', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/369046', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Myilibrary.pdf%3Fid%3D00002', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Balai%2520Pustaka.pdf%3Fid%3D00006', 'http://lpse.tebokab.go.id/eproc/lelang/view/347326', 'http://lpse.tebokab.go.id/eproc/lelang/tahap/347326', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Ebsco%2520Host.pdf%3Fid%3D00009', 'http://www.lpse.tanjabbarkab.go.id/eproc/publicberitadetail/665290', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/12559', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/196220', 'http://new-eresources.pnri.go.id/pdf/Manual%2520Publisher%2520Ulrichs.pdf%3Fid%3D00003', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Proquest.pdf%3Fid%3D00001', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/61464', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Ulrichs.pdf%3Fid%3D00003', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Cambridge%2520University%2520Press.pdf%3Fid%3D00032', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/729602', 'http://sirup.lkpp.go.id/sirup/rup/detailPaketPenyedia/452869', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Bowker.pdf%3Fid%3D00020', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520IGI%2520Global.pdf%3Fid%3D00004', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Lexis%2520Nexis.pdf%3Fid%3D00005', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Ebrary.pdf%3Fid%3D00017', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Cengage%2520Learning.pdf%3Fid%3D00007', 'http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/pdrd', 'http://lpse.tebokab.go.id/eproc/lelang/tahap/348326', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/550274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/547274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/553274', 'http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/dana-perimbangan/subdit-pelaksanaan-transfer-ii', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/540274', 'http://sirup.lkpp.go.id/sirup/rup/penyedia/kldi/L4', 'http://daftarmail.surabaya.go.id/index.php/daftar_permohonan/skpd/50', 'http://visa.imigrasi.go.id/pravnp-web/xmlhttp/homenew/Faq.jspx', 'http://eqvet.karantina.deptan.go.id/%3Fpage%3Darticle_detail%26%26id%3D210', 'http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/epikd/subdit-informasi-dan-dukungan-teknis', 'http://sirup.lkpp.go.id/sirup/rup/penyedia/satker/16763', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/551274', 'http://www.lpse.tanjabbarkab.go.id/eproc/index.filedownload:download/3431333239303b31', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/554274', 'http://www.lpse.sikkakab.go.id/eproc/rekanan/lelangpeserta/6611', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D31', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/521274', 'http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/pdrd/subdit-pdrd-iii', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D14', 'http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/sekretariat/tugas-belajar']
+step: 701 ,results: 99
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:34 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=915cdc9c56002b7f:FF=0:TM=1397532034:LM=1397532034:S=1WUeq5G5EU_gZGVZ; expires=Thu, 14-Apr-2016 03:20:34 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=nQEfwE7Aw8_yxBixYYNtCxMjqYOYUyQ4XR3e25nk4WEhIWCtinBfaJnrwxKDtZ9Z_VgDBOmiPBDlr15FD3Fqu4ehj0k-SAUCDu1OvM2dPrS3XE6kqGuDWwN9obyxuPU8; expires=Wed, 15-Oct-2014 03:20:34 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/sekretariat/bagian-umum', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/530274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/539274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/548274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/tahap/552274', 'http://www.kemlu.go.id/singapore/Pages/Tabloids.aspx%3Fl%3Did', 'http://www.kemlu.go.id/melbourne/Pages/Books.aspx%3Fl%3Did', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/522274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/545274', 'http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Taylor%2520%26%2520Francis.pdf%3Fid%3D00013', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/546274', 'http://eqvet.karantina.deptan.go.id/%3Fpage%3Dpers_detail%26%26id%3D6', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/555274', 'http://daftarmail.surabaya.go.id/index.php/daftar_permohonan/skpd/200', 'http://www.kemlu.go.id/melbourne/Pages/Magazines.aspx%3Fl%3Did', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/541274', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/542274', 'http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/pdrd/subdit-pdrd-iv', 'http://www.lpse.pesawarankab.go.id/eproc/lelang/view/543274', 'http://www.kemlu.go.id/sanfrancisco/Pages/News.aspx%3FIDP%3D6842%26l%3Did', 'http://www.bi.go.id/id/perbankan/prinsip-mengenal-nasabah/Documents/UU_RI_Nomor_8_Tahun_2010.PDF', 'http://pn-sleman.go.id/images/lhkpn/Asep%2520koswara.pdf', 'http://www.kemlu.go.id/sanfrancisco/Pages/News.aspx%3FIDP%3D6865%26l%3Did', 'http://lpse.lampungtengahkab.go.id/eproc//eproc/lelang/view/160237', 'http://ditjenahu.kemenkumham.go.id/dl/PP_UU/Dit.Perdata/UU_NO_28_2004.pdf', 'http://www.kemlu.go.id/kyiv/Pages/PressRelease.aspx%3FIDP%3D12%26l%3Did', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D7%26sessionid%3D5kdcgme9i8uj6v7kpk35l079g3', 'http://www.lpse.sikkakab.go.id/eproc/publicberitadetail.filedownload:download/343938313631313b31%3Ft:ac%3D13611', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D35%26sessionid%3Dmhipev5l87prqlbpdti72ts6h7', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D6%26sessionid%3D5kdcgme9i8uj6v7kpk35l079g3', 'http://www.lpse.sikkakab.go.id/eproc/publicberitadetail.filedownload:download/343938353631313b31%3Ft:ac%3D16611', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D37%26sessionid%3Dmhipev5l87prqlbpdti72ts6h7', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D37%26sessionid%3D5kdcgme9i8uj6v7kpk35l079g3', 'http://perundangan.pertanian.go.id/admin/file/UU%2520No.19%2520Tahun%25202013%2520Perlindungan%2520%26%2520Pemberdayaan%2520Petani.pdf', 'http://www.kemlu.go.id/sanfrancisco/Pages/News.aspx%3FIDP%3D6619%26l%3Did', 'http://eqvet.karantina.deptan.go.id/fotogalery/details.php%3Fimage_id%3D35%26sessionid%3D5kdcgme9i8uj6v7kpk35l079g3', 'http://www.kemlu.go.id/sanfrancisco/Pages/News.aspx%3FIDP%3D6857%26l%3Did', 'http://eqvet.karantina.deptan.go.id/index.php%3Fpage%3Dquarantine_detail%26%26id%3D326', 'http://www.kemlu.go.id/sanfrancisco/Pages/News.aspx%3FIDP%3D6856%26l%3Did', 'http://lpse.lampungtengahkab.go.id/eproc//eproc/lelang/view/182237', 'http://www.kemlu.go.id/kyiv/Pages/Embassies.aspx%3FIDP%3D159%26l%3Dlc', 'http://lpse.lampungtengahkab.go.id/eproc//eproc/lelang/view/170237', 'http://pta-yogyakarta.go.id/images/microsoft%2520word%2520-%2520diputusmei10.pdf', 'http://pn-pontianak.go.id/calendar-node-field-jadwal-sidang/day/2013-05-02', 'http://pn-batusangkar.go.id/download/UU%2520Nomor%25204%2520Tahun%25202004%2520tentang%2520Kekuasaan%2520Kehakiman.pdf', 'http://kpujatim.go.id/images/Doc/pengumuman20.pdf', 'http://sulteng.kemenkumham.go.id/layanan-publik/ijin-tinggal-terbatas/biaya9', 'http://pekalongankab.go.id/images/stories/IKU%2520KANTOR.xls', 'http://produk-hukum.kemenag.go.id/show/%3Fid%3D15', 'http://lpse.kkp.go.id/eproc/publicberitadetail/2018218', 'http://pn-palopo.go.id/images/files/SEMA_01_2012.pdf', 'http://www.anambaskab.go.id/skpd.php%3Fid%3D40', 'http://www.gorutkab.go.id/comment/reply/152', 'http://www.bphn.go.id/search/category_daerah.php%3Fcatreg%3D2012012008351912', 'http://www.pdii.lipi.go.id/read/tag/developing-countries', 'http://www.dilmil-surabaya.go.id/images/alur/sop_alur_perkara1.pdf', 'http://kpdi3.pnri.go.id/Album/KPDI3/index9.html', 'http://pn-tanjungpati.go.id/images/stories/Lakip/8.xls', 'http://www.pdii.lipi.go.id/read/tag/french', 'http://lpse.bnpb.go.id/eproc/jadwalhistory/1749382%3Bjsessionid%3D724BB3D2F1F514560A5E65AF32C0A3BD', 'http://www.pn-wates.go.id/images/pdf/pnbp_mei_2012.pdf', 'http://arsipweb.pnri.go.id/wayback/get_metadata.jsp%3Fdc_id%3D1738154', 'http://lpse.dpr.go.id/eproc/jadwalhistory/2187087%3Bjsessionid%3D885E8A7A640F3AD84615050A99080A19', 'http://www.pdii.lipi.go.id/read/tag/ughent', 'http://kepustakaan-presiden.pnri.go.id/article_clipping/%3Fpresiden_id%3D3%26presiden%3Dsuhartk_putih', 'http://www.pdii.lipi.go.id/read/tag/sub', 'http://perpustakaan.kpu.go.id/index.php%3Fp%3Dshow_detail%26id%3D845', 'http://perpustakaan.kpu.go.id/index.php%3Fp%3Dshow_detail%26id%3D851', 'http://perpustakaan.kpu.go.id/index.php%3Fp%3Dshow_detail%26id%3D848', 'http://lpse.bnpb.go.id/eproc/jadwalhistory/1752382%3Bjsessionid%3D724BB3D2F1F514560A5E65AF32C0A3BD', 'http://perpustakaan.kpu.go.id/index.php%3Fp%3Dshow_detail%26id%3D844', 'http://www.pdii.lipi.go.id/read/tag/pengadilan', 'http://lpse.kkp.go.id/eproc/lelang/tahap/1970218', 'http://lpse.bnpb.go.id/eproc/jadwalhistory/1751382%3Bjsessionid%3D724BB3D2F1F514560A5E65AF32C0A3BD', 'http://arsipweb.pnri.go.id/wayback/get_metadata.jsp%3Fdc_id%3D1738187', 'http://www.majalengkakab.go.id/images/perda2012/peraturan%2520daerah%2520nomor%25204%2520tahun%25202012%2520tentang%2520penyelenggaraan%2520perizinan.pdf', 'http://www.pn-bangko.go.id/images/SK_MA/Lampiran_VIII_Formulir_Permohonan_Informasi_Model_B.pdf', 'http://pa-donggala.go.id/images/SOP/Keuangan/Anggaran.pdf', 'http://lpse.dpr.go.id/eproc/jadwalhistory/2186087%3Bjsessionid%3D885E8A7A640F3AD84615050A99080A19', 'http://lpse.dpr.go.id/eproc/jadwalhistory/2188087%3Bjsessionid%3D885E8A7A640F3AD84615050A99080A19', 'http://perpustakaan.kpu.go.id/index.php%3Fp%3Dshow_detail%26id%3D852', 'http://serdos.dikti.go.id/%3Ftf%3DmHJ2tKWb4elE0JrPqlyw5EVHyX01lXKkduEmiognt6Q%3D%26i%3D7lpDYp/vjW4qtjo1ajRFIgABJbeUJq0TR9XGC1zIRhA%3D', 'http://media.kemsos.go.id/view.php%3Ffilename%3D200DSC_Photo4.jpg', 'http://arsipweb.pnri.go.id/wayback/get_metadata.jsp%3Fdc_id%3D1738159', 'http://www.pa-kebumen.go.id/images/stories/dokumen/prosedur_ttg_mediasi0001.pdf', 'http://lpse.dephub.go.id/eproc/lelang/tahap/10530114%3Bjsessionid%3DD6865E6A670473F65E7E4FA91B688D3A', 'http://lpse.bnpb.go.id/eproc/lelang/tahap/148382%3Bjsessionid%3D1963B62589C7B0CDE81778039185F5B2', 'http://www.kemlu.go.id/kabul/Pages/SiteMap.aspx%3Fl%3Did', 'http://www.dilmil-makassar.go.id/images/File/Rensid/Rensid%2520Tambahan%2520I%2520Januari%25202013.pdf', 'http://www.dilmilti3-surabaya.go.id/images/stories/doc_pdf/03-sop-ka-peningkatan-kemampuan-teknis-peradilan.pdf', 'http://lpse.lipi.go.id/eproc/lelang/tahap/352362%3Bjsessionid%3DF7516A3C51D09183745B6100157D63FC', 'http://www.diskes.jabarprov.go.id/assets/mapepid/StatPlanet.swf', 'http://lpse.sumselprov.go.id/eproc/rekanan/lelangpeserta/2296103%3Bjsessionid%3DEEF200A6BB61A9393B1004FF6C2403D6', 'http://lpse.dephub.go.id/eproc/lelang/tahap/10557114%3Bjsessionid%3DD6865E6A670473F65E7E4FA91B688D3A']
+step: 801 ,results: 94
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:39 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=c046a9d3b39b84c1:FF=0:TM=1397532039:LM=1397532039:S=ts0lZBphMFSXOsbE; expires=Thu, 14-Apr-2016 03:20:39 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=nXS7Jcz4wvDK2Aku6HsktDryvNCRECvKnIJTfjkRXaTS0GA6wvsWJK_OzGOGvAL2QM5sDNqFWOaE-AUdEA1LsdIW7ykLLkV1J-EJLqaq370sESKctzcz0Fc6tVKe9-x0; expires=Wed, 15-Oct-2014 03:20:39 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+['http://perpustakaan.kpk.go.id/index.php%3Fp%3Dshow_detail%26inXML%3Dtrue%26id%3D4402', 'http://pa-purbalingga.go.id/images/Data/program_kerja/renstra/renstra-papbg-2010-2014.pdf', 'http://aplikasi.deptan.go.id/afsis/sources/index.asp%3Fcountry%3Dyogya', 'http://perpustakaan.kpk.go.id/index.php%3Fp%3Dshow_detail%26inXML%3Dtrue%26id%3D4147', 'http://www.menpan.go.id/publikasi/galeri/foto/menteri-panrb-sosialisasi-reformasi-birokrasi-di-enam-kabupaten-kota-di-wilayah-aceh-7-10-maret-2014/20140307-10-sosialisasi-reformasi-birokrasi-di-enam-kab-kota-diwil-aceh3', 'http://lpse.polri.go.id/eproc/lelang/tahap/2049044%3Bjsessionid%3DD73C512DFB58AD9E402606C1439D321A', 'http://sumberbelajar.belajar.kemdikbud.go.id/SitePages/ViewMedia.aspx%3FMediaID%3D28018', 'http://bappeda.magelangkota.go.id/images/download/rpjm11-15/bab9_rpjm.pdf', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27154', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27106', 'http://sumberbelajar.belajar.kemdikbud.go.id/SitePages/ViewMedia.aspx%3FMediaID%3D28019', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27103', 'http://lpse.bnpb.go.id/eproc/lelang/tahap/158382%3Bjsessionid%3DD3FB159C5D9AFD3821DA87DB62EAE052', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27125', 'http://lpse.kemsos.go.id/eproc/rekanan/lelangpeserta/74323%253Bjsessionid%3D1C16FB37EEA2320EEC8F60DD6D825419.lpse2', 'http://lpse.dephub.go.id/eproc/rekanan/lelangpeserta/10526114%3Bjsessionid%3DD6865E6A670473F65E7E4FA91B688D3A', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27119', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27112', 'http://lpse.pertanian.go.id/eproc/lelang/tahap/1658212%3Bjsessionid%3D1490A674F82A46731A03F28D6F5CA904', 'http://perpustakaan.bphn.go.id/index.php/searchkatalog/byId/35078', 'http://sumberbelajar.belajar.kemdikbud.go.id/SitePages/ViewMedia.aspx%3FMediaID%3D28020', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27136', 'http://ejurnal.bppt.go.id/index.php/JSI/about/contact', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27144', 'http://www.bpol.litbang.kkp.go.id/images/flash.swf', 'http://dnpi.go.id/portal/id/program/divisi/peningkatan-kapasitas-penelitian-dan-pengembangan/kegiatan', 'http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27099', 'http://lpse.jatengprov.go.id/eproc/lelang/tahap/6439042%3Bjsessionid%3DF73DDE8E36FA1A5C56B283026A85C90D', 'http://www.bphn.go.id/search/category_daerah.php%3Fcatreg%3D2011090810464728%26catyear%3D2008', 'http://aplikasi.deptan.go.id/afsis/sources/index.asp%3Fcountry%3Dsulut', 'http://www.dpr.go.id/id/komisi/komisi3/report/187/Rapat-Fit-Proper-Test-KPK', 'http://www.kkp.go.id/index.php/arsip/c/page/9555', 'http://www.dpr.go.id/id/komisi/komisi3/report/267/Rapat-Fit-Proper-Test-MK', 'http://www.dpr.go.id/id/komisi/komisi9/report/1454/RDP-KOMISI-IX-DGN-DIRUT-PT-ASKES-Persero-TGL-14-DESEMBER-2010', 'http://www.dpr.go.id/id/komisi/komisi1/report/365/Raker-Komisi-I-dengan-Menlu', 'http://www.dpr.go.id/id/komisi/komisi9/report/106/Rapat-Dengar-Pendapat-Umum-dengan-Forum-Peduli-Nasib-Karyawan-DAMRI', 'http://lpse.kemsos.go.id/eproc/lelang/tahap/323323%3Bjsessionid%3DAFABB1D8365F1A91E006B243C6B3EF67.lpse2', 'http://rehsos.kemsos.go.id/PicShow.php%3Fshow%3Drandom_images/random/gambar-f-1.jpg', 'http://www.dpr.go.id/id/komisi/komisi8/report/1668/RDP-dengan-Dirjen-Pendidikan-Islam,-Kementeriant-Agama-RI', 'http://sirusa.bps.go.id/index.php%3Fr%3Dsk/view%26kd%3D1373%26th%3D2005', 'http://www.dpr.go.id/id/komisi/komisi3/report/85/RDP-dengan-PPATK', 'http://www.dpr.go.id/id/komisi/komisi3/report/52/RDPU-dengan-LK-GAP,-LSM-PETRA,-dan-WALHI', 'http://www.dpr.go.id/id/komisi/komisi3/report/2007/Rapat-Konsultasi-dengan-MK', 'http://www.dpr.go.id/id/komisi/komisi8/report/4417/RDP-Panja-PTAI-Komisi-VIII-DPR-RI-dengan-Rektor-UIN-Sunan-Gunung-DJati,-IAIN-Sumatera-Utara,-IAIN-Mataram,-Institut-Perguruan-Tinggi-Ilmu-Alquran', 'http://serdos.dikti.go.id/%3Ftf%3DCb6WwJ%40%40BqXBFL53ge7f4zGApwQNkowAbkFIMSuAIlE%3D%26i%3Dej6u%40YwTe531TCnO4klGPki4kjKjbPCcGVwzTVUaERM%3D', 'http://www.dpr.go.id/id/komisi/komisi3/report/1496/Lapsing-Anggaran-Komisi-III-dengan-Kapolri', 'http://www.dpr.go.id/id/komisi/komisi2/report/204/RDP-dengan-BPN', 'http://www.dpr.go.id/id/komisi/komisi3/report/321/RDPU-denganMahasiswa-UNAS', 'http://lpse.kemsos.go.id/eproc/lelang/tahap/108323%3Bjsessionid%3D5AD564B1B39879CE3F65A80E3ADF261E.lpse2', 'http://www.dpr.go.id/id/komisi/komisi2/report/2822/Rapat-Panja-RUUK-DIY-Komisi-II-DPR-RI-dengan-Dirjen-OTDA-Kemendagri', 'http://pn-mataram.go.id/images/stories/data/bagian%2520keuangan/dipa/dipa_03_2014.pdf', 'http://www.dpr.go.id/id/komisi/komisi8/report/1871/Raker-dengan-Menneg-PP-dan-PA', 'http://www.dpr.go.id/id/komisi/komisi3/report/185/Rapat-Intern-Laporan-Investigasi', 'http://www.dpr.go.id/id/komisi/komisi3/report/1577/RDPU-Panja-Pemberantasan-Mafia-Hukum-dan-Perpajakan-Komisi-III', 'http://www.dpr.go.id/id/komisi/komisi3/report/1012/Kesimpulan-RDP-Komisi-III-DPR-RI-dengan-PPATK', 'http://www.dpr.go.id/id/komisi/komisi3/report/264/Rapat-Fit-Proper-Test-MK', 'http://www.dpr.go.id/id/komisi/komisi3/report/44/LAPSING-RAKER-dengan-JAKSA-AGUNG', 'http://www.dpr.go.id/id/komisi/komisi3/report/327/Rapat-Kerja-dengan-Jaksa-Agung', 'http://www.dpr.go.id/id/komisi/komisi2/report/1020/RDP-Komisi-II-DPR-RI-dengan-DIRJEN-OTDA-Kemendagri', 'http://www.dpr.go.id/id/komisi/komisi2/report/205/RDP-dengan-Sekjen-KPU', 'http://www.dpr.go.id/id/komisi/komisi3/report/1366/Fit-and-Proper-Test-Komisi-III-terhadap-Calon-Hakim-Agung', 'http://lpse.kemsos.go.id/eproc/lelang/tahap/322323%3Bjsessionid%3DAFABB1D8365F1A91E006B243C6B3EF67.lpse2', 'http://www.sjdih.depkeu.go.id/ind/%3FstrArghome%3Dnothome%26min%3D5%26max%3D5376%26strArg%3Dind01', 'http://serdos.dikti.go.id/%3Ftf%3DCb6WwJ%40%40BqXBFL53ge7f4zGApwQNkowAbkFIMSuAIlE%3D%26i%3DOzufJ8TSKhw6i/dr8Zzwpc5m5jbK%40PJWVJofG42pfIc%3D', 'http://www.dpr.go.id/id/komisi/komisi3/report/821/Lapsing-RDPU-Komisi-III-dengan-Zainudin-Paru-amp%3B-Partner', 'http://kkp.go.id/index.php/arsip/c/page/1820/%3Fcategory_id%3D47', 'http://www.sjdih.kemenkeu.go.id/Ind/%3FstrArghome%3Dnothome%26min%3D5365%26max%3D5368%26strArg%3Dind01', 'http://www.sjdih.depkeu.go.id/ind/%3FstrArghome%3Dnothome%26min%3D5375%26max%3D5376%26strArg%3Dind01', 'http://www.madiunkab.go.id/', 'http://www.pa-bengkalis.go.id/images/stories/berita/Data/datapegawai/SUDARMONO.pdf', 'http://www.buku-e.lipi.go.id/utama.cgi%3Farsip%26%26%2628%26jenjangdasar', 'http://www.buku-e.lipi.go.id/utama.cgi%3Farsip%26%26%2614%26jenjangdasar', 'http://www.dpr.go.id/id/komisi/komisi3/report/83/RDP-dengan-BARESKRIM,-PPNS-BPOM,-DEPHUB,-PPNS-DEPHUB...', 'http://www.batan.go.id/bkhh/index.php/component/docman/cat_view/26-download.html%3Fstart%3D25', 'http://www.rup.lpse.depkeu.go.id/v2/index.php%3Fr%3Dsite/indexDetail%26satker%3D689320%26Rup_sort%3DKDSTATUS', 'http://pdni.pnri.go.id/BookDetailKatalog.aspx%3FPath%3DKoleksiDigital/Badan%2520Perpustakaan%2520Prov.%2520Nusa%2520Tenggara%2520Timur/Buku/Panduan%2520Pagelaran%2520Festifal%2520Budaya%2520Timor%2520Vii%2520Di%2520Kota%2520Kupang%2520Tahun%25202000/index.html', 'http://www.dpr.go.id/id/komisi/komisi3/report/320/RDPU-dengan-Aliansi-Masyarakat-Sipil....', 'http://www.magelangkab.go.id/', 'http://www.acehtengahkab.go.id/', 'http://dishubkominfo.surakarta.go.id/', 'http://www.ppjk.depkes.go.id/', 'http://bappeda.acehprov.go.id/', 'http://disperindag.jatimprov.go.id/', 'http://rocan.kemenag.go.id/']
+step: 901 ,results: 84
+Searching >>site:go.id<<
+
+
+200
+ OK
+Date: Tue, 15 Apr 2014 03:20:44 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: PREF=ID=8cca67f12ddcecc9:FF=0:TM=1397532044:LM=1397532044:S=40CaKTnzEOBCQUQ9; expires=Thu, 14-Apr-2016 03:20:44 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=QKcICB-D8y8vHxZ5W1zeSPMlH6EPCGtKOITJUhZ2qlXoMggSn_z3vEzSlCB3_X3z0KwwmMh9BvhzE-7feTcn9BLKyXWov0izyHWxUBDE52c7qf25zPDEpoeH9QhJx_3Q; expires=Wed, 15-Oct-2014 03:20:44 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+ 
+[]
+step: 901 ,results: 0
+Opening Page: http://www.mojokertokota.go.id/
+
+403 Forbidden
+Server: cloudflare-nginx
+Date: Tue, 15 Apr 2014 03:20:45 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Set-Cookie: __cfduid=d61a0c64dd82153b69822e8efc9e647a61397532045840; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.mojokertokota.go.id; HttpOnly
+Cache-Control: max-age=10
+Expires: Tue, 15 Apr 2014 03:20:55 GMT
+CF-RAY: 11b5025686ee0aea-WAW
+---------------------------
+Opening Page: http://www.bnn.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:19:25 GMT
+Server: Apache/2.2.6 (FreeBSD) mod_ssl/2.2.6 OpenSSL/0.9.7e-p1 DAV/2 PHP/5.2.5 with Suhosin-Patch
+X-Powered-By: PHP/5.2.5
+location: portal/
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.kemlu.go.id/melbourne/Pages/Books.aspx%3Fl%3Did
+
+400 Bad Request
+Connection: close
+Content-Length: 0
+Date: Tue, 15 Apr 2014 03:20:47 GMT
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+MicrosoftSharePointTeamServices: 14.0.0.6126
+X-MS-InvokeApp: 1; RequireReadOnly
+---------------------------
+Opening Page: http://www.menpan.go.id/publikasi/galeri/foto/menteri-panrb-sosialisasi-reformasi-birokrasi-di-enam-kabupaten-kota-di-wilayah-aceh-7-10-maret-2014/20140307-10-sosialisasi-reformasi-birokrasi-di-enam-kab-kota-diwil-aceh3
+
+200 OK
+Server: nginx/0.7.65
+Date: Tue, 15 Apr 2014 03:20:53 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.2-1ubuntu4.8
+Set-Cookie: 50b9ab33b10e4ae12bade4475801a9db=till23t676eoco9hcnqocihh51; path=/
+X-Powered-By: DatsoGallery
+Cache-Control: no-cache
+Pragma: no-cache
+Vary: Accept-Encoding
+---------------------------
+Opening Page: http://www.jatimprov.go.id/
+
+403 Forbidden
+Date: Tue, 15 Apr 2014 03:20:57 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.jatimprov.go.id/xmlrpc.php
+Set-Cookie: PHPSESSID=1b8ebe76abe8bca54e55b0b1ec5d7d51; path=/
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.presidenri.go.id/
+
+200 OK
+Server: nginx
+Date: Tue, 15 Apr 2014 03:00:16 GMT
+Content-Type: text/html
+Content-Length: 25109
+Last-Modified: Tue, 15 Apr 2014 01:31:03 GMT
+Connection: close
+Accept-Ranges: bytes
+---------------------------
+Opening Page: http://www.takalarkab.go.id/
+
+200 OK
+X-Powered-By: PHP/5.3.28
+Set-Cookie: 118becdc0c6c66d7da1480900ecd3251=c729099d96717c437d1dd1112ef35d6b; path=/
+Content-Type: text/html
+Server:  - Web acceleration by http://www.unixy.net/varnish 
+X-Cacheable: YES
+Content-Length: 83346
+Accept-Ranges: bytes
+Date: Tue, 15 Apr 2014 03:02:52 GMT
+X-Varnish: 474010290
+Via: 1.1 varnish
+Connection: close
+age: 0
+X-Cache: MISS
+---------------------------
+Opening Page: http://news.kutaikartanegarakab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:21:07 GMT
+Server: Apache
+X-Pingback: http://news.kutaikartanegarakab.go.id/xmlrpc.php
+Content-Type: text/html; charset=UTF-8
+Connection: close
+---------------------------
+Opening Page: http://www.malukuprov.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:21:09 GMT
+Server: Apache/2.2.26
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: 0e18e51db45db9ab01692d9f7d3b7603=c2be09e22a07c80300946b718af8598a; path=/
+Set-Cookie: yt_news_tpl=yt_news; expires=Sun, 05-Apr-2015 03:21:09 GMT; path=/
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://www.surabaya.go.id/
+
+302 Moved Temporarily
+Connection: close
+Date: Tue, 15 Apr 2014 03:19:26 GMT
+Server: Microsoft-IIS/6.0
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+X-Powered-By: PHP/5.2.6
+Location: http://www.surabaya.go.id/ver5/
+Content-type: text/html
+---------------------------
+Opening Page: http://lpse.dephub.go.id/eproc/rekanan/lelangpeserta/10526114%3Bjsessionid%3DD6865E6A670473F65E7E4FA91B688D3A
+
+200 OK
+Date: Tue, 15 Apr 2014 03:21:18 GMT
+Server: Netscape-Enterprise/6.0 PHP5.2.0 mod_asp/3.4.5
+Set-Cookie: JSESSIONID=76912375090DD618222596C11776A9AC; Path=/eproc
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 3669
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://www.dikti.go.id/
+
+200 OK
+Server: nginx/0.7.67
+Date: Tue, 15 Apr 2014 02:16:10 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+X-Powered-By: PHP/5.3.3-7+squeeze13
+Set-Cookie: PHPSESSID=7qu6jb1ekcivimgj0up47ii9k2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://img.dikti.go.id/xmlrpc.php
+Link: <http://wp.me/2yqii>; rel=shortlink
+---------------------------
+Opening Page: http://pa-purbalingga.go.id/images/Data/program_kerja/renstra/renstra-papbg-2010-2014.pdf
+
+200 OK
+Server: nginx admin
+Date: Tue, 15 Apr 2014 03:21:24 GMT
+Content-Type: application/pdf
+Content-Length: 60726
+Last-Modified: Tue, 15 May 2012 01:00:29 GMT
+Connection: close
+ETag: "4fb1aaad-ed36"
+Expires: Thu, 15 May 2014 03:21:24 GMT
+Cache-Control: max-age=2592000
+Accept-Ranges: bytes
+---------------------------
+Opening Page: http://jdih.jatimprov.go.id/
+
+403 Forbidden
+Date: Tue, 15 Apr 2014 03:21:40 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=1ce5be780ab6bbf14f3374f13f294979; path=/
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://papua.bps.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:21:46 GMT
+Server: Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.dinkesjatengprov.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 02:37:53 GMT
+Server: Apache/2.2.10 (Linux/SUSE)
+X-Powered-By: PHP/5.2.12
+Location: v2014
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3DOswktz3C7Q45mx7yL8DP1ITmzZpv1ZfgGYWMnFDLpw4%3D
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:21:50 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Vary: Accept-Encoding
+Content-Length: 330
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://www.kemlu.go.id/melbourne/Pages/Magazines.aspx%3Fl%3Did
+
+400 Bad Request
+Connection: close
+Content-Length: 0
+Date: Tue, 15 Apr 2014 03:21:50 GMT
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+MicrosoftSharePointTeamServices: 14.0.0.6126
+X-MS-InvokeApp: 1; RequireReadOnly
+---------------------------
+Opening Page: http://www.tasikmalayakab.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:21:54 GMT
+Server: Apache
+Location: http://tasikmalayakab.go.id/new
+Content-type: text/html
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+---------------------------
+Opening Page: http://www.gianyarkab.go.id/
+
+200 OK
+Server: nginx/1.4.7
+Date: Tue, 15 Apr 2014 03:21:56 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
+---------------------------
+Opening Page: http://perpustakaan.kpu.go.id/index.php%3Fp%3Dshow_detail%26id%3D851
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:21:58 GMT
+Server: Apache/2.2.22 (Debian)
+Vary: Accept-Encoding
+Content-Length: 320
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://www.bpol.litbang.kkp.go.id/images/flash.swf
+
+200 OK
+Date: Tue, 15 Apr 2014 03:30:28 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Last-Modified: Thu, 14 Apr 2011 03:52:33 GMT
+ETag: "3404d4-7ff11-4a0d8daea2240"
+Accept-Ranges: bytes
+Content-Length: 524049
+Connection: close
+Content-Type: application/x-shockwave-flash
+---------------------------
+Opening Page: http://kliping.kemenag.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:25:27 GMT
+Server: Apache/2.2.25
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=fbb1db1aa7c0bbd76a0aafa5c6d3da65; path=/; HttpOnly
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.dpr.go.id/id/komisi/komisi2/report/205/RDP-dengan-Sekjen-KPU
+
+200 OK
+Date: Tue, 15 Apr 2014 03:12:53 GMT
+Server: DPR Web Server
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=hhj3q6ca5lj16kfeqrjn2rl5p5; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://lpse.bnpb.go.id/eproc/jadwalhistory/1752382%3Bjsessionid%3D724BB3D2F1F514560A5E65AF32C0A3BD
+
+200 OK
+Date: Tue, 15 Apr 2014 03:22:17 GMT
+Server: Apache/2.2.17 (Ubuntu)
+Set-Cookie: JSESSIONID=8B906D84F52E9474A4134ED0A3FC8D0B; Path=/eproc
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 2877
+Vary: Accept-Encoding,User-Agent
+control-cache: no-cache, no-store, must-revalidate
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3DYoBq7wHrn9OCUFMUqp7rfKDbPCidOaFq/cCevC1QYG0%3D
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:22:18 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Vary: Accept-Encoding
+Content-Length: 330
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://pn-tanjungpati.go.id/images/stories/Lakip/8.xls
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:22:20 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Length: 294
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://223-61.cpt.kemdiknas.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:45:01 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.10
+Set-Cookie: wpmp_switcher=desktop; expires=Wed, 15-Apr-2015 03:45:01 GMT; path=/
+Set-Cookie: PHPSESSID=hvilltifohkc7v096chhm0vd92; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.isi-dps.ac.id/xmlrpc.php
+X-Mobilized-By: WordPress Mobile Pack 1.2.5
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://bkd.kutaikartanegarakab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:22:26 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=97cd703124f14196820e94b9d7a5428e; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-type: text/html
+Connection: close
+---------------------------
+Opening Page: http://rocan.kemenag.go.id/Problem fetching page...[http://rocan.kemenag.go.id/]Opening Page: http://serdos.dikti.go.id/%3Ftf%3DF8gBNqCrJmOpF9qaYMVeFT2LA9t7r%40bcREXjm7EDPLg%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3DF8gBNqCrJmOpF9qaYMVeFT2LA9t7r%40bcREXjm7EDPLg%3D]Opening Page: http://www.bawaslu.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:23:10 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: d70005a51330a4096b72a4b67cde090e=0t1s3jenhm9dqgfcikeof4okc5; path=/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Tue, 15 Apr 2014 03:23:16 GMT
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://www.dpr.go.id/id/komisi/komisi3/report/321/RDPU-denganMahasiswa-UNAS
+
+200 OK
+Date: Tue, 15 Apr 2014 03:16:47 GMT
+Server: DPR Web Server
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=luhgl4qsf65oua43prfqg6rar5; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.baliprov.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:25:56 GMT
+Server: Apache/2.2.26 (CentOS)
+X-Powered-By: PHP/5.2.17
+Set-Cookie: PHPSESSID=03cbbea5e5b84f6867afa3ddaaeb927b; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://jatim.kemenkumham.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 04:21:08 GMT
+Server: Apache/2.2.25 (FreeBSD) PHP/5.3.27 with Suhosin-Patch mod_ssl/2.2.25 OpenSSL/0.9.8y DAV/2
+X-Powered-By: PHP/5.3.27
+Set-Cookie: c798cf6998d765a2251970b096082cb0=33jatbldfirra4jlba20spbho5; path=/
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://www.lpse.tanjabbarkab.go.id/eproc/publicberitadetail/665290
+
+200 OK
+Date: Tue, 15 Apr 2014 03:26:22 GMT
+Server: Apache/2.2.15 (CentOS)
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 2857
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://pangan.litbang.deptan.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:25:30 GMT
+Server: Apache/2.2.8 (Ubuntu) Phusion_Passenger/3.0.17 mod_ssl/2.2.8 OpenSSL/0.9.8g
+X-Powered-By: PHP/5.2.4-2ubuntu5.27
+location: media.php?module=home
+Vary: Accept-Encoding
+Content-Length: 0
+Content-Type: text/html
+---------------------------
+Opening Page: http://e-resources.pnri.go.id/pdf/1-Manual%2520user%2520e-resoureces.pdf
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:26:26 GMT
+Server: Apache/2.2.26 (Unix) PHP/5.5.6
+Content-Length: 236
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://purwakartakab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:26:27 GMT
+Server: Apache/2.4.9 (azmanage) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9
+X-Powered-By: PHP/5.4.26
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://purwakartakab.go.id/xmlrpc.php
+Set-Cookie: PHPSESSID=ho5rsvsdlprfsqbp659icn06j1; path=/
+Vary: Host,Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.sultraprov.go.id/gallery.html
+
+200 OK
+Date: Tue, 15 Apr 2014 03:26:30 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=c5b647ccc8eb38e10483802e4f1d213a; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-type: text/html
+Connection: close
+---------------------------
+Opening Page: http://lpse.sukoharjokab.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:26:32 GMT
+Server: Netscape-Enterprise/6.0 PHP5.2.0 mod_asp/3.4.5 mod_jk/1.2.37
+Location: /eproc/
+Vary: Accept-Encoding
+Content-Length: 318
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://seruyankab.go.id/main/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:29:25 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.26
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 9919f5f98f01d8f594b1ce2a7bbd930e=-; path=/
+Set-Cookie: virtuemart=bc8eec22bf41816371e7e2d218abadec; path=/
+Last-Modified: Tue, 15 Apr 2014 03:29:25 GMT
+Content-Length: 115623
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://diperta.jabarprov.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:27:14 GMT
+Server: Apache/2.2.17 (Ubuntu)
+X-Powered-By: PHP/5.3.5-1ubuntu7.11
+Set-Cookie: PHPSESSID=fb7a595016ef73bae180127e1eb54a6e; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dezafu_ci_session=UG1WbFJjU2xXLFV2BDhTYAAxUDpWJQYjATcBJFMiB24JZgYyBVwCblRsACJTbFQiAjhYO1BkV29Rcgs9BWIGYFAxDT5RMVZhU2MHa1IwA2NQP1ZhUjVTZldkVTwEO1NhADJQM1Y2BmkBYAEzU2YHMwk9Bm4FNQIxVGkAIlNsVCICOFg5UGZXb1FyCzIFJAYPUGINP1E3ViRTNgcuUicDJFA3ViVSbFNnV2NVPwQgU2YAOFAuVjYGYwFmAXlTYwc0CTwGcgUyAjRUOgAiU2xUIgI4WDlQZldvUXILLgUnBjVQcQ0EUTJWMVM2BzNSIAMkUDdWJVJsU2RXZlU%2FBCBTGABvUHRWYgYiATwBMlMlBycJTAYkBXMCa1RnAHJTMlQjAiJYPlB4V2VRcgtgBScGalAyDWhRaVZ0Uz8HPFInA3JQU1Y3UjVTIlc%2BVXMEa1MlAHhQIlY8BjkBaAFmU2IHPgk%2BBmkFMAI1VDwAM1NjVGoCcVgyUG9Xb1FyCy4FJwY1UHENBFE3VjdTJwc8UnYDPVB%2FVmxSZlNsV3VVJwQ5Uyw%3D; expires=Tue, 15-Apr-2014 05:27:14 GMT; path=/; domain=localhost; secure
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://lpse.batukota.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:21:23 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: http://lpse.batukota.go.id/eproc/
+Vary: Accept-Encoding
+Content-Length: 302
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://sda.pu.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 02:57:09 GMT
+Server: Apache/2.2.14 (Ubuntu)
+X-Powered-By: PHP/5.3.2-1ubuntu4.21
+Set-Cookie: e38132a159682279735994ecbbac4bd0=k3i5qd1tbc23sikbjv87nda8a5; path=/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Length: 4929
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://www.banyuwangikab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:51:54 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.4.20
+Expires: Wed, 13 Dec 1972 18:37:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www4.bkpm.go.id/iipc/news/abu_dhabi
+
+200 OK
+Date: Tue, 15 Apr 2014 03:26:57 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.1.6
+Set-Cookie: CAKEPHP=ivlja7s0at9pa2m1fvn2ve8ep4; expires=Fri, 15 Apr 2039 09:26:57 GMT; path=/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://dishub.pemkomedan.go.id/Problem fetching page...[http://dishub.pemkomedan.go.id/]Opening Page: http://sumsel.bps.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:29:16 GMT
+Server: Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.dpr.go.id/id/komisi/komisi2/report/2822/Rapat-Panja-RUUK-DIY-Komisi-II-DPR-RI-dengan-Dirjen-OTDA-Kemendagri
+
+200 OK
+Date: Tue, 15 Apr 2014 03:20:00 GMT
+Server: DPR Web Server
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=eehq3rg5ki76bhhssq8cui85h7; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.bangkabaratkab.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:31:43 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.26
+Location: http://portal.bangkabaratkab.go.id/
+Cache-Control: max-age=1
+Expires: Tue, 15 Apr 2014 03:31:44 GMT
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://sumberbelajar.belajar.kemdikbud.go.id/sitePages/ViewMedia.aspx%3FMediaID%3D27154
+
+200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.0
+SharePointError: 0
+X-AspNet-Version: 4.0.30319
+SPRequestGuid: b759879c-6341-6069-49db-bda79020f7a3
+request-id: b759879c-6341-6069-49db-bda79020f7a3
+X-Powered-By: ASP.NET
+MicrosoftSharePointTeamServices: 15.0.0.4420
+X-Content-Type-Options: nosniff
+X-MS-InvokeApp: 1; RequireReadOnly
+Date: Tue, 15 Apr 2014 03:29:24 GMT
+Connection: close
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3D1e0BpwCJ2mkS378Hszwj3/jNLi253RL67MZcCMuHUZg%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3D1e0BpwCJ2mkS378Hszwj3/jNLi253RL67MZcCMuHUZg%3D]Opening Page: http://serdos.dikti.go.id/%3Ftf%3DAYg3JVjwT8yyDrmu1a5xokiFsVs%40cSeCiDjN0GWMQfM%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3DAYg3JVjwT8yyDrmu1a5xokiFsVs%40cSeCiDjN0GWMQfM%3D]Opening Page: http://www.djpk.kemenkeu.go.id/sekilas-djpk/organisasi/pdrd/subdit-pdrd-iii
+
+200 OK
+Date: Tue, 15 Apr 2014 11:03:42 GMT
+Server: Apache
+Set-Cookie: af183540049ec3e37189f0ddc8498653=cgha8ht5jst1jkj6im9jkitnl3; path=/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://www.pacitankab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:32:15 GMT
+Server: Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.2.17 mod_perl/2.0.6 Perl/v5.8.8
+X-Powered-By: PHP/5.2.17
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.dpr.go.id/id/komisi/komisi3/report/44/LAPSING-RAKER-dengan-JAKSA-AGUNG
+
+200 OK
+Date: Tue, 15 Apr 2014 03:22:59 GMT
+Server: DPR Web Server
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=as86m5bsot1lftt8q4mk4tgbh6; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.pasamankab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:32:45 GMT
+Content-Type: text/html; charset=utf-8;
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: Login=_8Tr4ZuCNwia1zit4jTUOo_j9Pgf9Qa5NMxwjAr6g16gBvskOgKNDgXA4cVb6y4d; path=/; HttpOnly
+Set-Cookie: stats=ihEcjFDztyVPz85KEvOfG2F-1gX1LHroG-Mdwlc103M.; expires=Tue, 15-Apr-2014 04:32:23 GMT
+Server: PNS Box HTTP Proxy Service
+---------------------------
+Opening Page: http://www.bmkg.go.id/bmkg_pusat/depan.bmkg
+
+200 OK
+Cache-Control: private
+Content-Length: 49408
+Content-Type: text/html
+Server: Microsoft-IIS/7.0
+Set-Cookie: ASPSESSIONIDCAAQTSTC=PIFEANCCKLCAKCGILJONJLNP; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 15 Apr 2014 03:32:48 GMT
+Connection: close
+---------------------------
+Opening Page: http://www.dpr.go.id/id/komisi/komisi1/report/365/Raker-Komisi-I-dengan-Menlu
+
+200 OK
+Date: Tue, 15 Apr 2014 03:23:33 GMT
+Server: DPR Web Server
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=e4375sqkl1e1uumsa1c1hkvi54; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://sirup.lkpp.go.id/sirup/rup/penyedia/kldi/L4
+
+500 Internal Server Error
+Date: Tue, 15 Apr 2014 03:28:28 GMT
+Server: Play! Framework;1.2.5;prod
+Content-Type: text/html; charset=utf-8
+Content-Length: 400
+Set-Cookie: PLAY_ERRORS=;Path=/sirup/
+Vary: Accept-Encoding
+Connection: close
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3DDf6F6s8LmNZjnRuwD93kVK9UQswaDngGP0Wlkoe/cSY%3D
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:33:14 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Vary: Accept-Encoding
+Content-Length: 330
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://www.beraukab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:33:16 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.19
+Set-Cookie: front_session_85c2e5d8e0cf2031425517625c8e4ff6=D3sMXrcsz1H%2F2CPK3Y0ETcXtgxLvrg49FRIPfd2wDRi%2B%2F%2BKB%2BaLf%2F3g3eiyT74TafTjyGw7YHVQTPuD98sTQwRzXsZl0d4835H%2B6FMNV4sGWSfIXpphlEGSSffLrtw1LZtaqrjHsp9hPBl5EW%2BQFI9Pucswp%2BODoj7pzeP4V3qOdUds1Mmo5stjnGhxMeL2obUTehXz4jO7e6mwTPxWdi0snxPj7UJwQoPWP4ep24DkSJSx7lnpyyDhNKahWGVojG2%2B3HjhoGTHv2ksTXnIL0pGSiCv5uVi8NfXTGNEkv9KIq2TOIlMYaDr5CWV3cb2ceVzomomBEWjsc%2BtqHzs%2BhwoFayAJ7ieyEAN90TbDHTQb4ipJG2EQBZEEK%2BISF6vIL0WrBMkaoQRnl57Bn5nTCEICm6S1MY5ZhA%2B9f9KWVyugeJhvxjd6gYhfoIqzjHZlIPOKtWgx3XVlDJf4iGLPCfmIAzytWw%2FFqCb3WbjjctvrETUP1sf8yYfuFavrjANgo8IoHOU6Vg9LNO37nXIsyY8KXF5WeKKuZd10BZQYVeM%3D; expires=Tue, 15-Apr-2014 05:33:16 GMT; path=/
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://pn-sleman.go.id/images/lhkpn/Asep%2520koswara.pdf
+
+404 Category not found
+Date: Tue, 15 Apr 2014 03:33:36 GMT
+Server: Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/1.0.0-fips mod_bwlimited/1.4 mod_fcgid/2.3.6
+X-Powered-By: PHP/5.3.27
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: 35ddd6087557b1d95d084138379f382b=a927d702ad2b1f0bb9cc3c1a82a5e472; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://mekanisasi.litbang.deptan.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:33:14 GMT
+Server: Apache/2.0.55 (Ubuntu) mod_ssl/2.0.55 OpenSSL/0.9.8b
+X-Powered-By: PHP/5.1.6
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Cengage%2520Learning.pdf%3Fid%3D00007
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:33:40 GMT
+Server: Apache/2.2.26 (Unix) PHP/5.5.6
+Content-Length: 254
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://www.dpr.go.id/id/komisi/komisi2/report/1020/RDP-Komisi-II-DPR-RI-dengan-DIRJEN-OTDA-Kemendagri
+
+200 OK
+Date: Tue, 15 Apr 2014 03:24:21 GMT
+Server: DPR Web Server
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=bv3mfmtij5s0avb6au8janqn46; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.bppk.depkeu.go.id/bdk/denpasar/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:34:22 GMT
+Server: Apache
+Set-Cookie: 79e8231adde637a7b460c96b09dad353=vbj4bi60n41r506debcestf243; path=/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Tue, 15 Apr 2014 03:34:22 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://lpse.lebakkab.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:31:23 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: http://lpse.lebakkab.go.id/eproc
+Vary: Accept-Encoding
+Content-Length: 301
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://sulsel.kemenag.go.id/
+
+200 OK
+Server: nginx/1.5.7
+Date: Tue, 15 Apr 2014 03:44:32 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.3.24
+Server: webdevel
+Set-Cookie: www.kemenag.go.id=A; path=/
+Cache-control: private
+---------------------------
+Opening Page: http://kepustakaan-presiden.pnri.go.id/article_clipping/%3Fpresiden_id%3D3%26presiden%3Dsuhartk_putih
+
+404 Not Found
+Content-Length: 1635
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Tue, 15 Apr 2014 03:33:50 GMT
+X-Cache: MISS from gw.pnri.go.id
+Via: 1.0 gw.pnri.go.id (squid/3.1.12)
+Connection: close
+---------------------------
+Opening Page: http://www.kemhan.go.id/
+
+303 See Other
+Location: /
+Connection: close
+Content-Length: 163
+Cache-Control: no-cache
+Content-Type: text/html
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3D5xC2rn3wxw8pCNU61MYfv2HNHNWc71I20wA8DK1QO8o%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3D5xC2rn3wxw8pCNU61MYfv2HNHNWc71I20wA8DK1QO8o%3D]Opening Page: http://setkab.go.id/en/
+
+302 Moved Temporarily
+Date: Tue, 15 Apr 2014 03:35:18 GMT
+Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Powered-By: PHP/5.3.8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=cab1170f4147ae95bec8e5e4a286eee9; path=/
+location: home
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3DHGyuezQ/HyVN4ZI6nB782LsYgBFf90hGbjExG5VVh2E%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3DHGyuezQ/HyVN4ZI6nB782LsYgBFf90hGbjExG5VVh2E%3D]Opening Page: http://www.lpse.pesawarankab.go.id/eproc/lelang/view/542274
+
+200 OK
+Date: Tue, 15 Apr 2014 03:36:36 GMT
+Server: Apache/2.2.16 (Debian)
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 7373
+Vary: Accept-Encoding,User-Agent
+control-cache: no-cache, no-store, must-revalidate
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://ciptakarya.pu.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:36:23 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.9
+Location: http://ciptakarya.pu.go.id/v3/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://lpse.gianyarkab.go.id/
+
+302 Found
+Date: Tue, 15 Apr 2014 03:36:39 GMT
+Server: Apache/2.2.16 (Debian)
+Location: http://lpse.gianyarkab.go.id/eproc/
+Vary: Accept-Encoding
+Content-Length: 306
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://www.inhilkab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:38:48 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.2.17
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: 5fbb0626d6ba6e9715a8fe825975ad1a=umUIzu3Xw-IA9dUfWQMOsrczc-TzAs1C8KEd42fGDJwza1FeNvCOKfuwz9dgAkgz; path=/; HttpOnly
+Set-Cookie: 67fd7583ccf7891e08116ad143fe5066=XbneQ6abr5osfJDapPsSJ7L955hRbMg2O4pcWJqLug0.; expires=Mon, 15-Apr-2013 03:37:25 GMT
+Set-Cookie: 67fd7583ccf7891e08116ad143fe5066=XbneQ6abr5osfJDapPsSJ7L955hRbMg2O4pcWJqLug0.; expires=Mon, 15-Apr-2013 03:37:25 GMT; httponly
+Set-Cookie: cip_vvisitcounter=5ej-LX641ow57pxY8Jjhr4ThlqmvJ4Us0lzOsB7sLt_knO5YVZwjc2NlsFnUim1l; expires=Tue, 15-Apr-2014 03:53:18 GMT
+Server: PNS Box HTTP Proxy Service
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3DyWmfTYy8fnrZYubXDOGwDLozOfBM8ptXwxHDz7HtGuk%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3DyWmfTYy8fnrZYubXDOGwDLozOfBM8ptXwxHDz7HtGuk%3D]Opening Page: http://lpse.dpr.go.id/eproc/jadwalhistory/2187087%3Bjsessionid%3D885E8A7A640F3AD84615050A99080A19
+
+200 OK
+Date: Tue, 15 Apr 2014 03:42:44 GMT
+Server: Apache/2.2.3 (CentOS)
+Set-Cookie: JSESSIONID=BA2FE0CF5997656B915990C0C3072F9A; Path=/eproc
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 2872
+Vary: Accept-Encoding,User-Agent
+control-cache: no-cache, no-store, must-revalidate
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3Dc4EYdxJ4xony8Otzhiqy40Nk8ckIt9wPkXq%40yahufp0%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3Dc4EYdxJ4xony8Otzhiqy40Nk8ckIt9wPkXq%40yahufp0%3D]Opening Page: http://www.denpasarkota.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:41:24 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=3cabcf06284a4725da4af4cf7b6bf4d6; path=/
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://lpse.sumselprov.go.id/eproc/rekanan/lelangpeserta/2296103%3Bjsessionid%3DEEF200A6BB61A9393B1004FF6C2403D6
+
+200 OK
+Date: Tue, 15 Apr 2014 03:42:53 GMT
+Server: Apache/2.2.15 (CentOS)
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Length: 10201
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://www.bandaacehkota.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:32:32 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.13
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=c87bd6503944c5e68817475cb99028d0; path=/
+Content-Length: 77262
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.perbendaharaan.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:42:00 GMT
+Server: Apache/2.2.3 (CentOS)
+Vary: Host,Accept-Encoding
+X-Powered-By: PHP/5.2.17
+Content-Length: 49
+Connection: close
+Content-Type: text/html; charset=ISO-8859-1
+---------------------------
+Opening Page: http://www.malangkab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:42:01 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=poegbj8pd2ohdbrqq5dqlepd90; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: User-Agent
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.kebumenkab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 10:31:05 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=h55s92k1mvvqlfssungucmjdn2; path=/
+Set-Cookie: cismart_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%225a6d51d467c9e58b67571589e409dbbe%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A14%3A%2279.134.235.132%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A21%3A%22Internet+Explorer+6.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1397557866%3B%7De2f012aa1da6278347286c70bfb2bcc1; expires=Tue, 15-Apr-2014 12:31:06 GMT; path=/
+Set-Cookie: cismart_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%225a6d51d467c9e58b67571589e409dbbe%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A14%3A%2279.134.235.132%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A21%3A%22Internet+Explorer+6.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1397557866%3Bs%3A9%3A%22CLIENT_IP%22%3Bs%3A15%3A%22180.250.149.132%22%3B%7Dd11cd63023a7d6d18a97cca858b7da01; expires=Tue, 15-Apr-2014 12:31:06 GMT; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+---------------------------
+Opening Page: http://www.bekasikota.go.id/pajangan/click/12
+
+302 Found
+Date: Tue, 15 Apr 2014 03:42:18 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.2.17
+Location: http://www.rumahzakat.org/
+Content-Encoding: none
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://inaproc.lkpp.go.id/v3/daftar_lpse
+
+200 OK
+Date: Tue, 15 Apr 2014 03:38:25 GMT
+Server: Play! Framework;1.2.5;prod
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Cache-Control: no-cache
+Content-Length: 16809
+Set-Cookie: PLAY_FLASH=;Expires=Tue, 15-Apr-14 03:38:25 GMT;Path=/v3/
+Set-Cookie: PLAY_ERRORS=;Expires=Tue, 15-Apr-14 03:38:25 GMT;Path=/v3/
+Set-Cookie: PLAY_SESSION=;Expires=Tue, 15-Apr-14 03:38:25 GMT;Path=/v3/
+Connection: close
+---------------------------
+Opening Page: http://www.kemendag.go.id/id/survey
+
+200 OK
+Date: Tue, 15 Apr 2014 03:40:09 GMT
+Server: Apache/2.4.7 (Unix) OpenSSL/1.0.1e PHP/5.5.6 mod_perl/2.0.8-dev Perl/v5.16.3
+X-Powered-By: PHP/5.5.6
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=45ptn6ua3ujl0c21la179383n5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Set-Cookie: kemendag_hits=13603752; expires=Wed, 16-Apr-2014 03:40:09 GMT; Max-Age=86400
+Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from www.kemendag.go.id
+X-Cache-Lookup: MISS from www.kemendag.go.id:80
+Via: 1.0 www.kemendag.go.id (squid/3.1.1)
+Connection: close
+---------------------------
+Opening Page: http://www.bumn.go.id/keretaapi/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:42:38 GMT
+Server: Apache
+Set-Cookie: qtrans_cookie_test=qTranslate+Cookie+Test; path=/keretaapi/; domain=www.bumn.go.id
+X-Pingback: http://www.bumn.go.id/keretaapi/xmlrpc.php
+Set-Cookie: PHPSESSID=lk263spnfsle41jug86eplm150; path=/
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://ntt.kemenag.go.id/
+
+200 OK
+Server: nginx/1.5.7
+Date: Tue, 15 Apr 2014 03:53:09 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.3.24
+Server: webdevel
+Set-Cookie: www.kemenag.go.id=A; path=/
+Cache-control: private
+---------------------------
+Opening Page: http://www.tangerangkota.go.id/news/latestrss
+
+200 OK
+Date: Tue, 15 Apr 2014 03:55:27 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.1.6
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2278178b1d94f9f1f447a0d7fc1a420834%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A14%3A%2279.134.235.132%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A21%3A%22Internet+Explorer+6.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1397534127%3B%7D8e012e7252e42258040cad740c7c3344; expires=Tue, 15-Apr-2014 05:55:27 GMT; path=/
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.lpse.pesawarankab.go.id/eproc/lelang/view/554274
+
+200 OK
+Date: Tue, 15 Apr 2014 03:42:40 GMT
+Server: Apache/2.2.16 (Debian)
+Cache-Control: no-cache,no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 6958
+Vary: Accept-Encoding,User-Agent
+control-cache: no-cache, no-store, must-revalidate
+Connection: close
+Content-Type: text/html;charset=UTF-8
+---------------------------
+Opening Page: http://serdos.dikti.go.id/%3Ftf%3DhVvyZ6vgcIqdTxPgW6y%408ClCU5D6wZyUcSQ3pMxoQFE%3DProblem fetching page...[http://serdos.dikti.go.id/%3Ftf%3DhVvyZ6vgcIqdTxPgW6y%408ClCU5D6wZyUcSQ3pMxoQFE%3D]Opening Page: http://bimakab.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:44:05 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.28
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: Login=636d66830cb1a2dc71b7153a88df1f00; path=/
+Set-Cookie: statistik=AuraCMS; expires=Tue, 15-Apr-2014 04:44:06 GMT
+Content-Length: 22665
+Connection: close
+Content-Type: text/html; charset=utf-8;
+---------------------------
+Opening Page: http://pusdiklat.bps.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:24:09 GMT
+Server: Apache/2.2.15 (CentOS)
+Set-Cookie: PHPSESSID=uj44dt9lvhe5947oe80t5i4oq1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=UTF-8
+---------------------------
+Opening Page: http://www.pu.go.id/pengumuman
+
+200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+X-Powered-By: PHP/5.2.17
+X-Powered-By: ASP.NET
+Date: Tue, 15 Apr 2014 03:44:11 GMT
+Connection: close
+Content-Length: 40468
+---------------------------
+Opening Page: http://pa-donggala.go.id/images/SOP/Keuangan/Anggaran.pdf
+
+200 OK
+Date: Tue, 15 Apr 2014 03:44:17 GMT
+Server: Apache
+Last-Modified: Mon, 28 May 2012 15:16:48 GMT
+Accept-Ranges: bytes
+Content-Length: 203872
+Connection: close
+Content-Type: application/pdf
+---------------------------
+Opening Page: http://e-resources.pnri.go.id/pdf/Manual%2520Publisher%2520Alexander%2520Street%2520Press.pdf
+
+404 Not Found
+Date: Tue, 15 Apr 2014 03:44:21 GMT
+Server: Apache/2.2.26 (Unix) PHP/5.5.6
+Content-Length: 253
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+---------------------------
+Opening Page: http://kecserut.tangerangselatankota.go.id/
+
+200 OK
+Date: Tue, 15 Apr 2014 03:45:38 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.4
+Set-Cookie: 6c3bada60b20f1b6ae0a33b88994d0ec=c6aq42sthbunmh78nci29b27d0; path=/
+Set-Cookie: modaldone=true; expires=Tue, 15-Apr-2014 04:45:38 GMT; path=/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Length: 6884
+Connection: close
+Content-Type: text/html; charset=utf-8
+---------------------------
+Opening Page: http://payakumbuhkota.go.id/
+
+200 OK
+Server: nginx admin
+Date: Tue, 15 Apr 2014 03:44:35 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.18
+X-Pingback: http://payakumbuhkota.go.id/xmlrpc.php
+Link: <http://wp.me/3HoFd>; rel=shortlink
+X-Cache: HIT from Backend
